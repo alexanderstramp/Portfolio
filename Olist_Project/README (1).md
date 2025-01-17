@@ -8,7 +8,7 @@ Olist, fundado em 2015, é uma plataforma de e-commerce que conecta lojistas a g
 
 A empresa possui uma vasta quantidade de dados sobre vendas, desempenho de vendedores, eficiência logística e satisfação do cliente. Este projeto se dedica a analisar e sintetizar esses dados de forma detalhada, a fim de revelar insights cruciais que podem impulsionar o sucesso comercial do Olist.
 
-Insights e recomendações são fornecidos nas seguintes áreas-chave:
+**Insights e recomendações são fornecidos nas seguintes áreas-chave:**
 
 **Análise de Vendas:** Avaliação de padrões históricos de vendas, tanto globalmente quanto por região, com foco em Receita, Volume de Pedidos e Valor Médio dos Pedidos (AOV).
 
@@ -20,11 +20,11 @@ Insights e recomendações são fornecidos nas seguintes áreas-chave:
 
 **Análise de Vendedores:** Avaliar o volume de vendas, atendimento ao cliente, incentivos conforme os pontos fortes e fracos observados.
 
-Dashboard interativo do Power BI disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
+Dashboard interativo do **Power BI** disponível [[**aqui**](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
-As consultas SQL utilizadas para limpar, organizar e preparar os dados para o dashboard estão disponíveis [aqui].
+As **consultas SQL** utilizadas para limpar, organizar e preparar os dados para o dashboard estão disponíveis [**aqui**].
 
-A fonte dos dados utilizados na análise, do website Kaggle, disponível  [[aqui](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)]
+A **fonte dos dados** utilizados na análise, do website Kaggle, disponível  [[**aqui**](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)]
 
 
 
