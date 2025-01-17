@@ -1,0 +1,11 @@
+
+select 
+	PAYMENT_VALUE
+from 
+	TB_ACT_ORDERPAYMENTS
+where 
+	PAYMENT_VALUE is null
+	or PAYMENT_VALUE = ''
+	
+	delete from TB_ACT_ORDERPAYMENTS
+	where PAYMENT_VALUE is null or PAYMENT_VALUE = ''
