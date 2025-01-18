@@ -1,7 +1,7 @@
 
-<img src="Imagens/logo.png" alt="Tabelas" width="300"/>
+<img src="Imagens/logo.png" alt="Tabelas" width="400"/>
 
-# **Análise de Vendas**
+## **Análise de Vendas**
 
 ### **Sobre a empresa**
 Fundado em 2015, o Olist é uma plataforma de e-commerce que conecta lojistas a grandes marketplaces, como Amazon, Mercado Livre e Magalu, permitindo que os comerciantes expandam significativamente sua visibilidade e alcancem uma base diversificada de clientes em todo o Brasil. A plataforma oferece soluções integradas que facilitam o gerenciamento de estoques, pedidos e entregas, simplificando a operação para os lojistas e otimizando a experiência do consumidor final.
