@@ -75,7 +75,6 @@ A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT
 Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
 **Página 1**
-
 * No **Gráfico 1**, o pico de vendas ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. A capacidade logística foi insuficiente para o aumento de volume, resultando em atrasos significativos nas entregas e impactando negativamente o CSAT, conforme evidenciado no Gráfico 5 da página Experiência do Cliente, que registrou um dos menores valores históricos.
 * Houve um aumento marginal de 0,48% no ticket médio entre os períodos analisados (ver **Card Ticket Médio**). Para incrementar essa métrica, é necessário explorar estratégias como a venda de produtos em conjunto e a implementação de promoções para elevar o valor médio por venda.
 * O **Gráfico 3** destaca que algumas categorias, como casa_conforto, possuem uma oferta limitada de produtos, com apenas cinco itens disponíveis.
