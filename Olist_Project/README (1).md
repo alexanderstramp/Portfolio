@@ -76,6 +76,7 @@ Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoi
 * Conforme o Gráfico 1, o período de janeiro a agosto de 2017 evidenciou uma alta taxa de crescimento, com um aumento de 400% entre janeiro e agosto. Em contrapartida, 2018 não manteve essa tendência, apresentando uma queda de 8% nas vendas, R$1.076.000 em Janeiro, para R$ 985.000 em agosto.
 * Houve um aumento marginal de 0,48% no ticket médio entre os períodos analisados (ver Card Ticket Médio da página 1). 
 * O Gráfico 4 também ilustra diferenças nas preferências de compra por região. No Centro-Oeste, Nordeste e Norte, beleza_saúde é a categoria mais vendida. No Sudeste, cama_mesa_banho lidera, enquanto no Sul, esporte_lazer domina as vendas. 
+_____________________________________________________________________________________________________________________________________________________________________________
 
 **Eficiência Logística**
 
@@ -87,6 +88,7 @@ Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoi
 * O pico de vendas no período analisado ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. No entanto, a capacidade logística pareceu insuficiente para lidar com o aumento de volume, resultando em um número significativo de entregas atrasadas nesse mesmo período. Essa situação refletiu-se negativamente no CSAT (Customer Satisfaction Score), registrando um dos menores valores históricos (ver página Experiência do Cliente - CSAT, Gráfico 5).
 * A eficiência logística em 2018 enfrentou desafios significativos, o Gráfico 3 revela que, em termos absolutos, a região Sudeste registra o maior número de entregas atrasadas. No entanto, proporcionalmente, apenas 7% das entregas na região Sudeste são feitas fora do prazo, em contraste com 14% na região Nordeste e 9% na região Norte. Isso pode ser atribuído à complexidade logística em regiões mais distantes, onde múltiplas transportadoras estão envolvidas, aumentando o tempo de trânsito dos produtos.
 * O CARD Valor Médio do Frete em vermelho indica um aumento no custo de frete entre os dois anos, possivelmente influenciado por fatores externos como aumento nos preços de pedágio e óleo diesel.
+_____________________________________________________________________________________________________________________________________________________________________________
 
 **Satisfação do Cliente**
 
@@ -98,6 +100,7 @@ Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoi
 * O CSAT é uma métrica que quantifica a satisfação do cliente com base na proporção de avaliações positivas em relação ao total de avaliações recebidas. Avaliações de 4 e 5 estrelas são consideradas positivas, enquanto 1, 2 e 3 estrelas são consideradas negativas.
 * O CARD 1 CSAT % revela um valor de satisfação abaixo de 80%, indicado pelo fundo amarelo. Quando o CSAT atinge ou supera 80%, o fundo do card muda para verde, refletindo uma meta de satisfação atingida. A satisfação do cliente é crítica para a sustentabilidade e sucesso do negócio.
 * Conforme o Gráfico 5, a região Sul lidera em satisfação com 79,9%, enquanto o Nordeste apresenta o menor índice de satisfação, com 74,2%. Em e-commerce, a satisfação está fortemente correlacionada à eficiência no processo de entrega.
+_____________________________________________________________________________________________________________________________________________________________________________
 
 **Análise de Vendedores**
 
