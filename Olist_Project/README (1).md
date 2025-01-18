@@ -60,7 +60,7 @@ A estrutura principal do banco de dados da empresa, conforme descrito abaixo, co
 
 **Análise das Vendas:**
 
-<img src="Imagens/vendas.png" alt="Tabelas" width="700" height="300"/>
+<img src="Imagens/vendas.png" alt="Tabelas" width="1000" height="400"/>
 
 
 O ano de 2017 foi um marco significativo para o Olist. Ao analisar o desempenho de vendas, observa-se um crescimento expressivo de 562% quando se comparam o primeiro e o último mês do ano. Além disso, este período registrou o maior pico de vendas dentro do intervalo analisado, totalizando R$ 1.149.000, um mês excepcional. Esse resultado foi impulsionado por algumas categorias de produtos, destacando-se o segmento de beleza e saúde, que apresentou um crescimento de 392%, passando de R$ 14.000 em janeiro para R$ 69.000 em dezembro. É relevante mencionar que o faturamento apresentou uma disparidade regional, com a região Sudeste contribuindo com mais de 60% das vendas totais. É também na região sudeste que se concentra mais de 70% dos vendedores, algo que influencia o tempo que as entregas levam para chegar nas regiões mais distantes do mapa.
