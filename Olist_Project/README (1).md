@@ -18,7 +18,7 @@ A empresa possui uma vasta quantidade de dados sobre vendas, desempenho de vende
 
 Dashboard interativo do Power BI disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
-As consultas SQL utilizadas para limpar, organizar e preparar os dados para o dashboard estão disponíveis [aqui].
+As consultas SQL utilizadas para limpar, organizar e preparar os dados para o dashboard estão disponíveis  [[aqui]()]
 
 A fonte dos dados utilizados na análise, do website Kaggle, disponível  [[aqui](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)]
 
