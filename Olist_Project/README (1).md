@@ -49,7 +49,7 @@ A estrutura principal do banco de dados da empresa, conforme descrito abaixo, co
 
 
 
-**Observação** A imagem acima contem sete tabelas, uma view (CATEGORIAS E PEDIDOS)e uma tabela(MEDIDAS) com as medidas DAX. 	
+***Observação** A imagem acima contem sete tabelas, uma View (CATEGORIAS E PEDIDOS)e uma tabela(MEDIDAS) com as medidas DAX. 	
 
 
 
