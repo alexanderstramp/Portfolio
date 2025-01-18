@@ -68,7 +68,7 @@ A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT
 
 **Análise de Vendas**
 
-<img src="Imagens/vendas.png" alt="Tabelas" width="900" height="300"/>
+<img src="Imagens/vendas.png" alt="Tabelas" width="800" height="300"/>
 
 Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
@@ -99,7 +99,7 @@ Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoi
 * O CARD 1 CSAT % revela um valor de satisfação abaixo de 80%, indicado pelo fundo amarelo. Quando o CSAT atinge ou supera 80%, o fundo do card muda para verde, refletindo uma meta de satisfação atingida. A satisfação do cliente é crítica para a sustentabilidade e sucesso do negócio.
 * Conforme o Gráfico 5, a região Sul lidera em satisfação com 79,9%, enquanto o Nordeste apresenta o menor índice de satisfação, com 74,2%. Em e-commerce, a satisfação está fortemente correlacionada à eficiência no processo de entrega.
 
-**Vendedores**
+**Análise de Vendedores**
 
 <img src="Imagens/vendedores.png" alt="Tabelas" width="800" height="300"/>
 
