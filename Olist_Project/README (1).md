@@ -71,7 +71,7 @@ A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT
 
 ### **Análise detalhada**
 
-**Vendas**
+**Análise de Vendas**
 
 <img src="Imagens/vendas.png" alt="Tabelas" width="750" height="400"/>
 
