@@ -1,7 +1,5 @@
 
-# **Olist E-commerce**
-
-## **Análise de Vendas**
+# **Olist E-commerce - Análise de Vendas**
 
 
 Olist, fundado em 2015, é uma plataforma de e-commerce que conecta lojistas a grandes marketplaces, permitindo que esses comerciantes ampliem sua visibilidade e alcance de clientes em todo o Brasil.
