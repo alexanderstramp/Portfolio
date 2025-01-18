@@ -7,6 +7,7 @@ O Olist possui uma rica base de dados abrangendo diversos aspectos críticos do 
 
 ### **Objetivo do Projeto**
 Este projeto foca na análise e síntese desses dados, utilizando técnicas avançadas de análise de dados e visualização para identificar tendências, padrões e áreas de oportunidade. A análise inclui métricas-chave como crescimento de vendas, tempo de entrega e índices de satisfação (CSAT), fornecendo uma visão abrangente do desempenho operacional e comercial da empresa.
+
 O objetivo é fornecer insights estratégicos que possam ser aplicados para otimizar processos, melhorar a eficiência logística, aumentar a satisfação do cliente e, consequentemente, impulsionar o sucesso comercial do Olist em um mercado de e-commerce cada vez mais competitivo. Além disso, esta análise busca destacar as áreas que necessitam de melhorias e desenvolver recomendações baseadas em dados para apoiar a tomada de decisão informada pelos gestores da empresa.
 
 
