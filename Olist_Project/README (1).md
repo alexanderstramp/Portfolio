@@ -71,21 +71,29 @@ A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT
 **Vendas**
 
 <img src="Imagens/vendas.png" alt="Tabelas" width="750" height="400"/>
+**Página 1** do Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
+
 _ No Gráfico 1, o pico de vendas ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. A capacidade logística foi insuficiente para o aumento de volume, resultando em atrasos significativos nas entregas e impactando negativamente o CSAT, conforme evidenciado no Gráfico 5 da página Experiência do Cliente, que registrou um dos menores valores históricos.
 
 **Eficiência Logística**
 
 <img src="Imagens/entregas.png" alt="Tabelas" width="800" height="300"/>
+**Página 3** do Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
+
 A eficiência logística em 2018 enfrentou desafios significativos, evidenciados pelo aumento nos índices de pedidos entregues fora do prazo. Na região Nordeste, o percentual de entregas atrasadas subiu de 11% para 16%, enquanto na região Norte, o índice mais que dobrou, passando de 5% para 13%. Esse cenário pode ser atribuído ao aumento substancial no volume de vendas, que impactou a capacidade logística da empresa.
 
 **Satisfação do Cliente**
 
 <img src="Imagens/clientes.png" alt="Tabelas" width="800" height="300"/>
+**Página 4** do Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
+
 A análise da satisfação do cliente, medida pelo CSAT (Customer Satisfaction Score), revelou uma satisfação de 78,9% de avaliações positivas, um valor muito aquem do esperado. E quando comparado os valores de cada ano, o resultado ainda fica pior, de 79.5% em 2017, para 78.5% em 2018. Apesar de apresentar crescimento no volume de vendas, o nível de satisfação ficou abaixo das expectativas, sugerindo uma necessidade crítica de implementar estratégias para melhorar a experiência do cliente e converter clientes insatisfeitos em promotores da marca. Este aspecto é fundamental para o crescimento sustentável e a fidelização de clientes no longo prazo.
 
 **Vendedores**
 
 <img src="Imagens/vendedores.png" alt="Tabelas" width="800" height="300"/>
+**Página 6** do Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
+
 A distribuição de vendedores apresenta uma concentração significativa na região Sudeste, onde mais de 70% dos vendedores estão localizados. Essa concentração influencia diretamente a distribuição geográfica das vendas. 
 
 
