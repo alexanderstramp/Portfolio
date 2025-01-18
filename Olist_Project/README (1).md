@@ -113,7 +113,7 @@ Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoi
 
 ## **Recomendações**
 
-#### **Análise de Vendas:**
+### **Análise de Vendas:**
 
 **Com relação a taxa de crescimento baixa no ano de 2018:**
 
@@ -126,6 +126,7 @@ Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoi
 **Com relação as diferenças pelas preferencias de compras por região:**
 
 * Desenvolver campanhas de marketing segmentadas por região, com base em análises de dados históricos de vendas e preferências locais, além de direcionar esforços para regiões com menor participação de vendas. Ao mesmo tempo criar programas de fidelização que oferecam beneficios exclusivos
+_____________________________________________________________________________________________________________________________________________________________________________
 
 #### **Eficiência Logística:**
 
