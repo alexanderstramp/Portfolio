@@ -79,9 +79,9 @@ Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoi
 
 *A base de dados contempla registros até agosto de 2018. Diante disso, a segunda página do dashboard foi desenvolvida para comparar o desempenho desse período de oito meses com o mesmo intervalo em 2017.
 
-* O pico de vendas ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. A capacidade logística foi insuficiente para o aumento de volume, resultando em atrasos significativos nas entregas e impactando negativamente o CSAT, conforme evidenciado no **Gráfico 5** da página Experiência do Cliente, que registrou um dos menores valores históricos.
+* O pico de vendas ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. A capacidade logística foi insuficiente para o aumento de volume, resultando em atrasos significativos nas entregas e impactando negativamente o CSAT, que registrou um dos menores valores históricos.
 * O período de janeiro a agosto de 2017 evidenciou uma alta taxa de crescimento, com um aumento de 400% entre janeiro e agosto. Em contrapartida, 2018 não manteve essa tendência, apresentando uma queda de 8% nas vendas, R$1.076.000 em Janeiro, para R$ 985.000 em agosto.
-* Houve um aumento marginal de 0,48% no ticket médio entre os períodos analisados (ver **Card Ticket Médio**). 
+* Houve um aumento marginal de 0,48% no ticket médio entre os períodos analisados. 
 * Algumas categorias, como casa_conforto, possuem uma oferta limitada de produtos, com apenas cinco itens disponíveis.
 * A categoria informática experimentou altos volumes de vendas no início de 2018. Esse comportamento sazonal é influenciado pela volta às aulas e pelo lançamento de novos produtos por empresas de tecnologia.
 * Dos R$15 milhões em vendas, apenas R$207 mil foram pagos com cartão de débito, representando 1,38% do total. O pagamento por cartão de crédito somou R$12 milhões, equivalente a 80% das vendas. A preferência pelo cartão de crédito pode ser atribuída a benefícios como programas de recompensas e maior segurança percebida pelos consumidores.
