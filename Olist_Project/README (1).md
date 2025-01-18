@@ -59,30 +59,26 @@ A estrutura principal do banco de dados da empresa, conforme descrito abaixo, co
 ## **Destaques da Análise**
 
 **Vendas**
-<img src="Imagens/vendas.png" alt="Tabelas" width="900" height="500"/>
 
+<img src="Imagens/vendas.png" alt="Tabelas" width="900" height="500"/>
+_ No Gráfico 1, o pico de vendas ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. A capacidade logística foi insuficiente para o aumento de volume, resultando em atrasos significativos nas entregas e impactando negativamente o CSAT, conforme evidenciado no Gráfico 5 da página Experiência do Cliente, que registrou um dos menores valores históricos.
 
 **Eficiência Logística**
 
 <img src="Imagens/entregas.png" alt="Tabelas" width="800" height="300"/>
-
+A eficiência logística em 2018 enfrentou desafios significativos, evidenciados pelo aumento nos índices de pedidos entregues fora do prazo. Na região Nordeste, o percentual de entregas atrasadas subiu de 11% para 16%, enquanto na região Norte, o índice mais que dobrou, passando de 5% para 13%. Esse cenário pode ser atribuído ao aumento substancial no volume de vendas, que impactou a capacidade logística da empresa.
 
 **Satisfação do Cliente**
 
 <img src="Imagens/clientes.png" alt="Tabelas" width="800" height="300"/>
-
+A análise da satisfação do cliente, medida pelo CSAT (Customer Satisfaction Score), revelou uma satisfação de 78,9% de avaliações positivas, um valor muito aquem do esperado. E quando comparado os valores de cada ano, o resultado ainda fica pior, de 79.5% em 2017, para 78.5% em 2018. Apesar de apresentar crescimento no volume de vendas, o nível de satisfação ficou abaixo das expectativas, sugerindo uma necessidade crítica de implementar estratégias para melhorar a experiência do cliente e converter clientes insatisfeitos em promotores da marca. Este aspecto é fundamental para o crescimento sustentável e a fidelização de clientes no longo prazo.
 
 **Vendedores**
 
 <img src="Imagens/vendedores.png" alt="Tabelas" width="800" height="300"/>
+A distribuição de vendedores apresenta uma concentração significativa na região Sudeste, onde mais de 70% dos vendedores estão localizados. Essa concentração influencia diretamente a distribuição geográfica das vendas. 
 
 
-O ano de 2017 foi um marco significativo para o Olist. Ao analisar o desempenho de vendas, observa-se um crescimento expressivo de 562% quando se comparam o primeiro e o último mês do ano. Além disso, este período registrou o maior pico de vendas dentro do intervalo analisado, totalizando R$ 1.149.000, um mês excepcional. Esse resultado foi impulsionado por algumas categorias de produtos, destacando-se o segmento de beleza e saúde, que apresentou um crescimento de 392%, passando de R$ 14.000 em janeiro para R$ 69.000 em dezembro. É relevante mencionar que o faturamento apresentou uma disparidade regional, com a região Sudeste contribuindo com mais de 60% das vendas totais. É também na região sudeste que se concentra mais de 70% dos vendedores, algo que influencia o tempo que as entregas levam para chegar nas regiões mais distantes do mapa.
-
-No ano de 2018, o comportamento das vendas mostrou um padrão distinto. Embora tenha alcançado, em apenas sete meses, um faturamento superior ao do ano anterior inteiro, o período não apresentou crescimento contínuo. Pelo contrário, houve uma retração de 8% quando se comparam os números do início e do final do intervalo analisado.
-Em termos de eficiência logística, 2018 apresentou desafios notáveis, com aumento nos índices de pedidos entregues fora do prazo. Aqui duas regiões se destacam, a região Nordeste que registrou um aumento de 11% para 16%. E a região Norte que exibiu uma elevação ainda mais acentuada, com os números mais que dobrando, de 5% para 13%. Este cenário pode ser parcialmente atribuído ao aumento substancial no volume de vendas, o que impactou diretamente a capacidade logística da empresa.
-
-A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT (Customer Satisfaction Score). Os resultados dos dois anos revelam uma taxa de satisfação de apenas 78,9%, com avaliações positivas ficando aquém do esperado. Esse dado evidencia a necessidade de estratégias direcionadas para a conversão de clientes insatisfeitos em promotores da marca, um fator crítico para o crescimento sustentável do negócio.
 
 
 
