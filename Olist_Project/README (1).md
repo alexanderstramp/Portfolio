@@ -58,8 +58,7 @@ A estrutura principal do banco de dados da empresa, conforme descrito abaixo, co
 
 ## **Destaques da Análise**
 
-**Análise das Vendas**
-
+**Vendas**
 <img src="Imagens/vendas.png" alt="Tabelas" width="900" height="500"/>
 
 
@@ -73,7 +72,7 @@ A estrutura principal do banco de dados da empresa, conforme descrito abaixo, co
 <img src="Imagens/clientes.png" alt="Tabelas" width="800" height="300"/>
 
 
-**Análise de Vendedores**
+**Vendedores**
 
 <img src="Imagens/vendedores.png" alt="Tabelas" width="800" height="300"/>
 
