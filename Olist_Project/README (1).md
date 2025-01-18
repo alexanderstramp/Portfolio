@@ -66,7 +66,7 @@ A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT
 
 Abaixo esta uma parte da página 2 do dashboard do Power Bi. E mais exemplos estao inclusos ao longo do relatório.
 
-<img src="Imagens/vendas2.png" alt="Tabelas" width="900" height="400"/>
+<img src="Imagens/vendas2.png" alt="Tabelas" width="900" height="300"/>
 
 O Dashboard interativo do Power BI está disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
