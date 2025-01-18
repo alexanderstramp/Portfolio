@@ -41,7 +41,7 @@ A estrutura principal do banco de dados da empresa, conforme descrito abaixo, co
 
 **TB_ACT_ITENS_DOS_PEDIDOS:** Detalha os itens contidos em cada pedido, com informações sobre valores de frete, vendedores associados e preços dos produtos.
 
-**TB_ACT_AVALIAÇÕES_DOS_PEDIDOS:** Contém feedbacks dos clientes, incluindo a pontuação atribuída às compras, variando de 1 a 5 estrelas, útil para análise de satisfação do cliente. 
+**TB_ACT_AVALIAÇÕES_DOS_PEDIDOS:** Contém feedbacks dos clientes, incluindo a pontuação atribuída às compras, variando de 1 a 5 estrelas.
 
 
 ![Tabelas](Imagens/tabelas.png)
