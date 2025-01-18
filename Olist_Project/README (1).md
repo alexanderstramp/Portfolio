@@ -64,10 +64,11 @@ Em termos de eficiência logística, 2018 apresentou desafios notáveis, com aum
 
 A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT (Customer Satisfaction Score). Os resultados dos dois anos revelam uma taxa de satisfação de apenas 78,9%, com avaliações positivas ficando aquém do esperado. Esse dado evidencia a necessidade de estratégias direcionadas para a conversão de clientes insatisfeitos em promotores da marca, um fator crítico para o crescimento sustentável do negócio.
 
-Abaixo esta parte da página 2 do dashboard do Power Bi. E mais exemplos estao inclusos ao longo do relatório
+Abaixo esta uma parte da página 2 do dashboard do Power Bi. E mais exemplos estao inclusos ao longo do relatório.
 
-<img src="Imagens/vendas2.png" alt="Tabelas" width="750" height="400"/>
+<img src="Imagens/vendas2.png" alt="Tabelas" width="900" height="400"/>
 
+O Dashboard interativo do Power BI está disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
 
 ## **Recomendações**
