@@ -113,6 +113,8 @@ Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoi
 
 ## **Recomendações**
 
+
+
 **Análise de Vendas:**
 
 **Eficiência Logística:**
