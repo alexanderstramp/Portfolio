@@ -44,7 +44,7 @@ A estrutura principal do banco de dados da empresa, conforme descrito abaixo, co
 **TB_ACT_AVALIAÇÕES_DOS_PEDIDOS:** Contém feedbacks dos clientes, incluindo a pontuação atribuída às compras, variando de 1 a 5 estrelas, útil para análise de satisfação do cliente. 
 
 
-![Tabelas](imagens/tabelas.png)
+![Tabelas](Imagens/tabelas.png)
 
 
 
