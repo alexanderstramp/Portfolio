@@ -20,7 +20,7 @@ Dashboard interativo do Power BI disponível [[aqui](https://app.powerbi.com/vie
 
 As consultas SQL utilizadas para limpar, organizar e preparar os dados para o dashboard estão disponíveis na pasta SQL_Consultas, neste mesmo repositório.
 
-[[aqui]()]
+[[aqui](https://github.com/alexanderstramp/Portfolio/tree/main/Olist_Project/SQL_Consultas)]
 
 A fonte dos dados utilizados na análise, do website Kaggle, disponível  [[aqui](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)]
 
