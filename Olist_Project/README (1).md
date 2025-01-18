@@ -8,23 +8,57 @@ Olist, fundado em 2015, é uma plataforma de e-commerce que conecta lojistas a g
 
 A empresa possui uma vasta quantidade de dados sobre vendas, desempenho de vendedores, eficiência logística e satisfação do cliente. Este projeto se dedica a analisar e sintetizar esses dados de forma detalhada, a fim de revelar insights cruciais que podem impulsionar o sucesso comercial do Olist.
 
-**Insights e recomendações são fornecidos nas seguintes áreas-chave:**
+Insights e recomendações são fornecidos nos seguintes tópicos:
 
-**Análise de Vendas:** Avaliação de padrões históricos de vendas, tanto globalmente quanto por região, com foco em Receita, Volume de Pedidos e Valor Médio dos Pedidos (AOV).
+**Análise de Vendas:** Avaliação de padrões históricos de vendas, tanto globalmente quanto por região, com foco em Receita, Volume de Pedidos e Valor Médio dos Pedidos.
+	
+**Eficiência Logística:** Avaliação da eficiência nas entregas e seu impacto na satisfação do cliente. Destacando a quantidade de entregas fora do prazo, divididas por categorias e regiões.
+ 
+**Satisfação do Cliente:** Uma análise do feedback dos clientes, incluindo a métrica CSAT e a identificação de áreas para melhorias.
 
-**Desempenho de Produto:** Uma análise das diversas categorias de produtos do Olist, compreendendo seu impacto nas vendas e devoluções.
+**Análise de Vendedores:** Avaliar o volume de vendas, atendimento ao cliente, quantidade ao longo do tempo, grupo com os maiores faturamentos.
 
-**Eficiência Logística:** Avaliação da eficiência nas entregas e seu impacto na satisfação do cliente.
+Dashboard interativo do Power BI disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
-**Satisfação do Cliente:** Uma análise do feedback dos clientes, incluindo a avaliação de suas experiências e a identificação de áreas para melhorias.
+As consultas SQL utilizadas para limpar, organizar e preparar os dados para o dashboard estão disponíveis [aqui].
 
-**Análise de Vendedores:** Avaliar o volume de vendas, atendimento ao cliente, incentivos conforme os pontos fortes e fracos observados.
+A fonte dos dados utilizados na análise, do website Kaggle, disponível  [[aqui](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)]
 
-Dashboard interativo do **Power BI** disponível [[**aqui**](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
-As **consultas SQL** utilizadas para limpar, organizar e preparar os dados para o dashboard estão disponíveis [**aqui**].
+### **Modelagem dos Dados**
 
-A **fonte dos dados** utilizados na análise, do website Kaggle, disponível  [[**aqui**](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)]
+A estrutura principal do banco de dados da empresa, conforme descrito abaixo, consiste em sete tabelas, com mais de 95.000 registros cada. A descrição de cada tabela é dado abaixo:
+
+**TB_ACT_PRODUTOS:** Esta tabela armazena informações detalhadas sobre os produtos, incluindo atributos como tamanho, peso e categoria associada.
+
+**TB_ACT_CLIENTES:** Contém dados abrangentes sobre os clientes, incluindo endereços, estados, CEPs e identificadores únicos (codigo_id).
+
+**TB_ACT_VENDEDORES:** Armazena informações relacionadas aos vendedores, como a cidade de atuação, estado e identificadores únicos (codigo_id).
+
+**TB_ACT_PAGAMENTOS:** Centraliza dados sobre pagamentos, abrangendo valores transacionais, métodos de pagamento e outras informações financeiras relevantes.
+
+**TB_ACT_CATEGORIAS_E_PEDIDOS:** Trata-se de uma view criada no SQL para consolidar dados de categorias e pedidos, facilitando a extração de insights analíticos.
+
+**TB_ACT_PEDIDOS:** Armazena todos os registros de pedidos realizados no período analisado, incluindo informações sobre data de compra, data de envio e status do pedido.
+
+**TB_ACT_ITENS_DOS_PEDIDOS:** Detalha os itens contidos em cada pedido, com informações sobre valores de frete, vendedores associados e preços dos produtos.
+
+**TB_ACT_AVALIAÇÕES_DOS_PEDIDOS:** Contém feedbacks dos clientes, incluindo a pontuação atribuída às compras, variando de 1 a 5 estrelas, útil para análise de satisfação do cliente. 
+
+
+![Tabelas](images/tabelas.png)
+
+
+
+
+**Observação** A imagem acima contem sete tabelas, uma view e uma tabela com as medidas DAX. 	
+
+
+
+
+
+
+
 
 
 
