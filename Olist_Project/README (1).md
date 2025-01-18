@@ -1,5 +1,5 @@
 
-![Tabelas](Imagens/logo.png)
+<img src="Imagens/logo.png" alt="Tabelas" width="300"/>
 
 # **Análise de Vendas**
 
