@@ -59,18 +59,22 @@ A estrutura principal do banco de dados da empresa, conforme descrito abaixo, co
 ## **Destaques da Análise**
 
 **Análise das Vendas**
+
 <img src="Imagens/vendas.png" alt="Tabelas" width="800" height="300"/>
 
 
 **Eficiência Logística**
+
 <img src="Imagens/entregas.png" alt="Tabelas" width="800" height="300"/>
 
 
 **Satisfação do Cliente**
+
 <img src="Imagens/clientes.png" alt="Tabelas" width="800" height="300"/>
 
 
 **Análise de Vendedores**
+
 <img src="Imagens/vendedores.png" alt="Tabelas" width="800" height="300"/>
 
 
