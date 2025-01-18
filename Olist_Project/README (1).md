@@ -6,7 +6,7 @@ Olist, fundado em 2015, é uma plataforma de e-commerce que conecta lojistas a g
 
 A empresa possui uma vasta quantidade de dados sobre vendas, desempenho de vendedores, eficiência logística e satisfação do cliente. Este projeto se dedica a analisar e sintetizar esses dados de forma detalhada, a fim de revelar insights cruciais que podem impulsionar o sucesso comercial do Olist.
 
-Insights e recomendações são fornecidos nos seguintes tópicos:
+### **Insights e recomendações são fornecidos nos seguintes tópicos:**
 
 **Análise de Vendas:** Avaliação de padrões históricos de vendas, tanto globalmente quanto por região, com foco em Receita, Volume de Pedidos e Valor Médio dos Pedidos.
 	
