@@ -11,6 +11,7 @@ Este projeto foca na análise e síntese desses dados, utilizando técnicas avan
 O objetivo é fornecer insights estratégicos que possam ser aplicados para otimizar processos, melhorar a eficiência logística, aumentar a satisfação do cliente e, consequentemente, impulsionar o sucesso comercial do Olist em um mercado de e-commerce cada vez mais competitivo. Além disso, esta análise busca destacar as áreas que necessitam de melhorias e desenvolver recomendações baseadas em dados para apoiar a tomada de decisão informada pelos gestores da empresa.
 
 
+
 ### **Insights e recomendações são fornecidos nos seguintes tópicos:**
 **Análise de Vendas:** Avaliação de padrões históricos de vendas, tanto globalmente quanto por região, com foco em Receita, Volume de Pedidos e Valor Médio dos Pedidos.
 	
@@ -19,6 +20,7 @@ O objetivo é fornecer insights estratégicos que possam ser aplicados para otim
 **Satisfação do Cliente:** Uma análise do feedback dos clientes, incluindo a métrica CSAT e a identificação de áreas para melhorias.
 
 **Análise de Vendedores:** Avaliar o volume de vendas, atendimento ao cliente, quantidade ao longo do tempo, grupo com os maiores faturamentos.
+
 
 
 ### **Fontes e Ferramentas utilizadas**
