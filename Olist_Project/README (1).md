@@ -67,9 +67,27 @@ A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT
 
 ## **Recomendações**
 
+**Análise de Vendas:**
+
+**Eficiência Logística:**
+
+**Satisfação do Cliente:**
+
+**Análise de Vendedores:**
+
+
 
 
 ### **Análise detalhada**
+
+A seguir, apresenta-se uma análise aprofundada dos indicadores e visualizações presentes no projeto.
+
+
+
+
+
+
+
 
 **Análise de Vendas**
 
