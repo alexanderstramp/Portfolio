@@ -72,9 +72,18 @@ A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT
 
 <img src="Imagens/vendas.png" alt="Tabelas" width="750" height="400"/>
 
-**Página 1** do Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
+Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
-_ No Gráfico 1, o pico de vendas ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. A capacidade logística foi insuficiente para o aumento de volume, resultando em atrasos significativos nas entregas e impactando negativamente o CSAT, conforme evidenciado no Gráfico 5 da página Experiência do Cliente, que registrou um dos menores valores históricos.
+**Página 1**
+
+* No **Gráfico 1**, o pico de vendas ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. A capacidade logística foi insuficiente para o aumento de volume, resultando em atrasos significativos nas entregas e impactando negativamente o CSAT, conforme evidenciado no Gráfico 5 da página Experiência do Cliente, que registrou um dos menores valores históricos.
+* Houve um aumento marginal de 0,48% no ticket médio entre os períodos analisados (ver **Card Ticket Médio**). Para incrementar essa métrica, é necessário explorar estratégias como a venda de produtos em conjunto e a implementação de promoções para elevar o valor médio por venda.
+* O **Gráfico 3** destaca que algumas categorias, como casa_conforto, possuem uma oferta limitada de produtos, com apenas cinco itens disponíveis.
+* O Gráfico 1 revela que a categoria informática experimentou altos volumes de vendas no início de 2018. Esse comportamento sazonal é influenciado pela volta às aulas e pelo lançamento de novos produtos por empresas de tecnologia.
+* O **Card Forma de Pagamento** mostra que, dos R$15 milhões em vendas, apenas R$207 mil foram pagos com cartão de débito, representando 1,38% do total. O pagamento por cartão de crédito somou R$12 milhões, equivalente a 80% das vendas. A preferência pelo cartão de crédito pode ser atribuída a benefícios como programas de recompensas e maior segurança percebida pelos consumidores.
+* O **Gráfico 4** também ilustra diferenças nas preferências de compra por região. No Centro-Oeste, Nordeste e Norte, beleza_saúde é a categoria mais vendida. No Sudeste, cama_mesa_banho lidera, enquanto no Sul, esporte_lazer domina as vendas. Essas variações regionais são cruciais para a equipe de marketing ao desenvolver estratégias localizadas, considerando fatores como preços regionais e concorrência local.
+
+**Página 2**
 
 **Eficiência Logística**
 
