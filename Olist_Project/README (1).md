@@ -64,11 +64,51 @@ Em termos de eficiência logística, 2018 apresentou desafios notáveis, com aum
 
 A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT (Customer Satisfaction Score). Os resultados dos dois anos revelam uma taxa de satisfação de apenas 78,9%, com avaliações positivas ficando aquém do esperado. Esse dado evidencia a necessidade de estratégias direcionadas para a conversão de clientes insatisfeitos em promotores da marca, um fator crítico para o crescimento sustentável do negócio.
 
-Abaixo esta uma parte da página 2 do dashboard do Power Bi. E mais exemplos estao inclusos ao longo do relatório.
+## **A seguir, apresenta-se os pontos-chave identificados ao longo da análise, evidenciando aspectos que requerem atenção imediata, envolvendo todas as áreas da empresa**
 
-<img src="Imagens/vendas2.png" alt="Tabelas" width="900" height="300"/>
+**Análise de Vendas**
 
-O Dashboard interativo do Power BI está disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
+<img src="Imagens/vendas.png" alt="Tabelas" width="900" height="300"/>
+
+Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
+
+**Página 1 e 2**
+* Conforme o Gráfico 1, o período de janeiro a agosto de 2017 evidenciou uma alta taxa de crescimento, com um aumento de 400% entre janeiro e agosto. Em contrapartida, 2018 não manteve essa tendência, apresentando uma queda de 8% nas vendas, R$1.076.000 em Janeiro, para R$ 985.000 em agosto.
+* Houve um aumento marginal de 0,48% no ticket médio entre os períodos analisados (ver Card Ticket Médio da página 1). 
+* O Gráfico 4 também ilustra diferenças nas preferências de compra por região. No Centro-Oeste, Nordeste e Norte, beleza_saúde é a categoria mais vendida. No Sudeste, cama_mesa_banho lidera, enquanto no Sul, esporte_lazer domina as vendas. 
+
+**Eficiência Logística**
+
+<img src="Imagens/entregas.png" alt="Tabelas" width="800" height="300"/>
+
+Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
+
+**Página 3**
+* O pico de vendas no período analisado ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. No entanto, a capacidade logística pareceu insuficiente para lidar com o aumento de volume, resultando em um número significativo de entregas atrasadas nesse mesmo período. Essa situação refletiu-se negativamente no CSAT (Customer Satisfaction Score), registrando um dos menores valores históricos (ver página Experiência do Cliente - CSAT, Gráfico 5).
+* A eficiência logística em 2018 enfrentou desafios significativos, o Gráfico 3 revela que, em termos absolutos, a região Sudeste registra o maior número de entregas atrasadas. No entanto, proporcionalmente, apenas 7% das entregas na região Sudeste são feitas fora do prazo, em contraste com 14% na região Nordeste e 9% na região Norte. Isso pode ser atribuído à complexidade logística em regiões mais distantes, onde múltiplas transportadoras estão envolvidas, aumentando o tempo de trânsito dos produtos.
+* O CARD Valor Médio do Frete em vermelho indica um aumento no custo de frete entre os dois anos, possivelmente influenciado por fatores externos como aumento nos preços de pedágio e óleo diesel.
+
+**Satisfação do Cliente**
+
+<img src="Imagens/clientes.png" alt="Tabelas" width="800" height="300"/>
+
+ Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
+
+**Página 4**
+* O CSAT é uma métrica que quantifica a satisfação do cliente com base na proporção de avaliações positivas em relação ao total de avaliações recebidas. Avaliações de 4 e 5 estrelas são consideradas positivas, enquanto 1, 2 e 3 estrelas são consideradas negativas.
+* O CARD 1 CSAT % revela um valor de satisfação abaixo de 80%, indicado pelo fundo amarelo. Quando o CSAT atinge ou supera 80%, o fundo do card muda para verde, refletindo uma meta de satisfação atingida. A satisfação do cliente é crítica para a sustentabilidade e sucesso do negócio.
+* Conforme o Gráfico 5, a região Sul lidera em satisfação com 79,9%, enquanto o Nordeste apresenta o menor índice de satisfação, com 74,2%. Em e-commerce, a satisfação está fortemente correlacionada à eficiência no processo de entrega.
+
+**Vendedores**
+
+<img src="Imagens/vendedores.png" alt="Tabelas" width="800" height="300"/>
+
+Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
+
+**Página 6**
+* O Gráfico 1 apresenta uma análise temporal da correlação entre o número de vendedores ativos e o volume de vendas gerado. A correlação positiva observada sugere que a expansão da base de vendedores contribui diretamente para o crescimento das vendas totais.
+* Os Gráficos 2 e 3 mostram a distribuição de faturamento por vendedor, indicando uma concentração significativa de vendedores com baixo desempenho.
+* O CARD Forma de Pagamento expõe a variabilidade nas opções de pagamento oferecidas pelos vendedores. A análise dos dados sugere que a baixa diversificação nas formas de pagamento pode estar correlacionada com a perda de vendas. 
 
 
 ## **Recomendações**
@@ -80,75 +120,4 @@ O Dashboard interativo do Power BI está disponível [[aqui](https://app.powerbi
 **Satisfação do Cliente:**
 
 **Análise de Vendedores:**
-
-
-
-
-### **Análise detalhada**
-
-A seguir, apresenta-se uma análise aprofundada dos indicadores e visualizações presentes no projeto.
-
-
-
-
-
-
-
-
-**Análise de Vendas**
-
-<img src="Imagens/vendas.png" alt="Tabelas" width="750" height="400"/>
-
-Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
-
-*A base de dados contempla registros até agosto de 2018. Diante disso, a segunda página do dashboard foi desenvolvida para comparar o desempenho desse período de oito meses com o mesmo intervalo em 2017.
-
-* O pico de vendas ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. A capacidade logística foi insuficiente para o aumento de volume, resultando em atrasos significativos nas entregas e impactando negativamente o CSAT, que registrou um dos menores valores históricos.
-* O período de janeiro a agosto de 2017 evidenciou uma alta taxa de crescimento, com um aumento de 400% entre janeiro e agosto. Em contrapartida, 2018 não manteve essa tendência, apresentando uma queda de 8% nas vendas, R$1.076.000 em Janeiro, para R$ 985.000 em agosto.
-* Houve um aumento marginal de 0,48% no ticket médio entre os períodos analisados. 
-* Algumas categorias, como casa_conforto, possuem uma oferta limitada de produtos, com apenas cinco itens disponíveis.
-* A categoria informática experimentou altos volumes de vendas no início de 2018. Esse comportamento sazonal é influenciado pela volta às aulas e pelo lançamento de novos produtos por empresas de tecnologia.
-* Dos R$15 milhões em vendas, apenas R$207 mil foram pagos com cartão de débito, representando 1,38% do total. O pagamento por cartão de crédito somou R$12 milhões, equivalente a 80% das vendas. A preferência pelo cartão de crédito pode ser atribuída a benefícios como programas de recompensas e maior segurança percebida pelos consumidores.
-* Há diferenças nas preferências de compra por região. No Centro-Oeste, Nordeste e Norte, beleza_saúde é a categoria mais vendida. No Sudeste, cama_mesa_banho lidera, enquanto no Sul, esporte_lazer domina as vendas. Essas variações regionais são cruciais para a equipe de marketing ao desenvolver estratégias localizadas, considerando fatores como preços regionais e concorrência local.
-* Há um aumento de 144% nas vendas ao comparar os dois períodos. Esse crescimento reflete uma maior consolidação da Olist no mercado de comércio eletrônico em 2018.
-* A Tabela apresenta as vendas segmentadas por região, destacando variações mensais superiores a 5%, tanto positivas quanto negativas, por meio de ícones. O Sudeste responde por mais de 60% das vendas, enquanto o Norte apresenta o menor valor, com 3%. Esses dados sugerem oportunidades de crescimento em regiões com participação menor, orientando as estratégias de mercado para os meses subsequentes.
-* Observa-se que a queda mencionada em 2018 afetou todas as regiões. Análises adicionais revelam que, embora o comércio tenha crescido 5% no ano, setores como livros, jornais, revistas e papelaria enfrentaram uma retração de 14%, o que pode ter contribuído para a queda nas vendas observada.
-
-
-
-**Eficiência Logística**
-
-<img src="Imagens/entregas.png" alt="Tabelas" width="800" height="300"/>
-
-**Página 3** do Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
-
-A eficiência logística em 2018 enfrentou desafios significativos, evidenciados pelo aumento nos índices de pedidos entregues fora do prazo. Na região Nordeste, o percentual de entregas atrasadas subiu de 11% para 16%, enquanto na região Norte, o índice mais que dobrou, passando de 5% para 13%. Esse cenário pode ser atribuído ao aumento substancial no volume de vendas, que impactou a capacidade logística da empresa.
-
-**Satisfação do Cliente**
-
-<img src="Imagens/clientes.png" alt="Tabelas" width="800" height="300"/>
-
-**Página 4** do Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
-
-A análise da satisfação do cliente, medida pelo CSAT (Customer Satisfaction Score), revelou uma satisfação de 78,9% de avaliações positivas, um valor muito aquem do esperado. E quando comparado os valores de cada ano, o resultado ainda fica pior, de 79.5% em 2017, para 78.5% em 2018. Apesar de apresentar crescimento no volume de vendas, o nível de satisfação ficou abaixo das expectativas, sugerindo uma necessidade crítica de implementar estratégias para melhorar a experiência do cliente e converter clientes insatisfeitos em promotores da marca. Este aspecto é fundamental para o crescimento sustentável e a fidelização de clientes no longo prazo.
-
-**Vendedores**
-
-<img src="Imagens/vendedores.png" alt="Tabelas" width="800" height="300"/>
-
-**Página 6** do Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
-
-A distribuição de vendedores apresenta uma concentração significativa na região Sudeste, onde mais de 70% dos vendedores estão localizados. Essa concentração influencia diretamente a distribuição geográfica das vendas. 
-
-
-
-
-
-
-
-
-
-
-
-
 
