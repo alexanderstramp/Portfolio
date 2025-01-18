@@ -74,15 +74,21 @@ A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT
 
 Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
-**Página 1**
-* No **Gráfico 1**, o pico de vendas ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. A capacidade logística foi insuficiente para o aumento de volume, resultando em atrasos significativos nas entregas e impactando negativamente o CSAT, conforme evidenciado no Gráfico 5 da página Experiência do Cliente, que registrou um dos menores valores históricos.
+**Página 1 e 2**
+ A base de dados contempla registros até agosto de 2018. Diante disso, a segunda página do dashboard foi desenvolvida para comparar o desempenho desse período de oito meses com o mesmo intervalo em 2017.
+
+* No **Gráfico 1**, o pico de vendas ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. A capacidade logística foi insuficiente para o aumento de volume, resultando em atrasos significativos nas entregas e impactando negativamente o CSAT, conforme evidenciado no **Gráfico 5** da página Experiência do Cliente, que registrou um dos menores valores históricos.
+* Conforme o **Gráfico 1**, o período de janeiro a agosto de 2017 evidenciou uma alta taxa de crescimento, com um aumento de 400% entre janeiro e agosto. Em contrapartida, 2018 não manteve essa tendência, apresentando uma queda de 8% nas vendas, R$1.076.000 em Janeiro, para R$ 985.000 em agosto.
 * Houve um aumento marginal de 0,48% no ticket médio entre os períodos analisados (ver **Card Ticket Médio**). Para incrementar essa métrica, é necessário explorar estratégias como a venda de produtos em conjunto e a implementação de promoções para elevar o valor médio por venda.
 * O **Gráfico 3** destaca que algumas categorias, como casa_conforto, possuem uma oferta limitada de produtos, com apenas cinco itens disponíveis.
 * O Gráfico 1 revela que a categoria informática experimentou altos volumes de vendas no início de 2018. Esse comportamento sazonal é influenciado pela volta às aulas e pelo lançamento de novos produtos por empresas de tecnologia.
 * O **Card Forma de Pagamento** mostra que, dos R$15 milhões em vendas, apenas R$207 mil foram pagos com cartão de débito, representando 1,38% do total. O pagamento por cartão de crédito somou R$12 milhões, equivalente a 80% das vendas. A preferência pelo cartão de crédito pode ser atribuída a benefícios como programas de recompensas e maior segurança percebida pelos consumidores.
 * O **Gráfico 4** também ilustra diferenças nas preferências de compra por região. No Centro-Oeste, Nordeste e Norte, beleza_saúde é a categoria mais vendida. No Sudeste, cama_mesa_banho lidera, enquanto no Sul, esporte_lazer domina as vendas. Essas variações regionais são cruciais para a equipe de marketing ao desenvolver estratégias localizadas, considerando fatores como preços regionais e concorrência local.
+* O **CARD T. Vendas 2017-2018 Jan-Ago** mostra um aumento de 144% nas vendas ao comparar os dois períodos. Esse crescimento reflete uma maior consolidação da Olist no mercado de comércio eletrônico em 2018.
+* A **Tabela 1 da página 2** apresenta as vendas segmentadas por região, destacando variações mensais superiores a 5%, tanto positivas quanto negativas, por meio de ícones. O Sudeste responde por mais de 60% das vendas, enquanto o Norte apresenta o menor valor, com 3%. Esses dados sugerem oportunidades de crescimento em regiões com participação menor, orientando as estratégias de mercado para os meses subsequentes.
+* A partir do **CARD Região e do Gráfico 1 da pagina 2**, observa-se que a queda mencionada em 2018 afetou todas as regiões. Análises adicionais revelam que, embora o comércio tenha crescido 5% no ano, setores como livros, jornais, revistas e papelaria enfrentaram uma retração de 14%, o que pode ter contribuído para a queda nas vendas observada.
 
-**Página 2**
+
 
 **Eficiência Logística**
 
