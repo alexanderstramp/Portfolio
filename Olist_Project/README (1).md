@@ -70,7 +70,7 @@ A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT
 
 **Vendas**
 
-<img src="Imagens/vendas.png" alt="Tabelas" width="700" height="300"/>
+<img src="Imagens/vendas.png" alt="Tabelas" width="750" height="400"/>
 _ No Gráfico 1, o pico de vendas ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. A capacidade logística foi insuficiente para o aumento de volume, resultando em atrasos significativos nas entregas e impactando negativamente o CSAT, conforme evidenciado no Gráfico 5 da página Experiência do Cliente, que registrou um dos menores valores históricos.
 
 **Eficiência Logística**
