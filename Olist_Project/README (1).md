@@ -52,6 +52,9 @@ A estrutura principal do banco de dados da empresa, conforme descrito abaixo, co
 ***Observação** A imagem acima contem sete tabelas, uma View (CATEGORIAS E PEDIDOS)e uma tabela(MEDIDAS) com as medidas DAX. 	
 
 
+### **Visão Geral dos Resultados**
+
+O ano de 2017 foi notável para a Olist. Primeiro, quando comparado o primeiro e o ultimo mês do ano, nota-se uma taxa de crescimento de 562% nas vendas. Segundo, foi neste período também que observa-se o pico nas vendas de todo o intervalo que este relatório abrange, R$ 1.149.000, um valor excepcional. O ano seguinte demonstra um comportamento um pouco diferente, com um volume de vendas significativo, tendo alcançado em apenas sete meses um faturamento maior que todo ano passado. mas sem crescimento ao longo do tempo. Pelo contrário, quando comparados o início e o fim do intervalo, temos uma singela queda nos números. 
 
 
 
