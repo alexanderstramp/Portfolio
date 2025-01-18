@@ -60,7 +60,7 @@ A estrutura principal do banco de dados da empresa, conforme descrito abaixo, co
 
 **Análise das Vendas**
 
-<img src="Imagens/vendas.png" alt="Tabelas" width="800" height="300"/>
+<img src="Imagens/vendas.png" alt="Tabelas" width="900" height="500"/>
 
 
 **Eficiência Logística**
