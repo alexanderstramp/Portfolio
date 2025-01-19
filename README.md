@@ -1,6 +1,6 @@
 # **Portfolio de Análise de Dados**
 Bem-vindo ao meu portfólio de projetos de análise de dados! Aqui você encontrará uma coleção de trabalhos que demonstram minhas habilidades em análise de dados, visualização e modelagem preditiva. 
-Estes projetos foram desenvolvidos para aplicar e aprimorar técnicas analíticas em cenários reais, utilizando ferramentas como Python, SQL, Power BI.
+Estes projetos foram desenvolvidos para aplicar e aprimorar técnicas analíticas em cenários reais, utilizando ferramentas como Excel, SQL, Power BI, Python.
 ______________________________________________________________________________________________________________________________________________________________________________
 
 **Abaixo, apresento uma visão geral dos projetos incluídos neste portfólio**
