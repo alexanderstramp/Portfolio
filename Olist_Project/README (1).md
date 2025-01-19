@@ -114,6 +114,7 @@ Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoi
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **Recomendações**
+Planos de ações especificos para cada aspecto crítico destacado pela análise. 
 
 ### **Análise de Vendas:**
 
