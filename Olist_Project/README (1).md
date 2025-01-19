@@ -17,6 +17,9 @@ O Olist possui uma rica base de dados abrangendo diversos aspectos críticos do 
 ### **Objetivo da Análise**
 
 O objetivo é fornecer insights estratégicos que possam ser aplicados para otimizar processos, melhorar a eficiência logística, aumentar a satisfação do cliente e, consequentemente, impulsionar o sucesso comercial do Olist em um mercado de e-commerce cada vez mais competitivo. Além disso, esta análise busca destacar as áreas que necessitam de melhorias e desenvolver recomendações baseadas em dados para apoiar a tomada de decisão informada pelos gestores da empresa.
+
+<img src="Imagens/empresa_objetivo.png" alt="Tabelas" width="900" height="300"/>
+
 _______________________________________________________________________________________________________________________________________________________________________
 
 ## **Insights e recomendações são fornecidos nos seguintes tópicos:**
