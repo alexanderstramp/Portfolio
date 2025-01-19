@@ -11,13 +11,14 @@ As principais etapas deste projeto incluem:
 
 **Exploração de Dados:** Limpeza e transformação dos dados brutos para preparação para a análise.
 
-**Ferramentas Utilizadas:** SQL e Power Bi
-
 **Análise Descritiva:** Avaliação das vendas por categorias de produtos, períodos de tempo e regiões geográficas.
 
 **Visualização de Dados:** Criação de gráficos interativos para comunicar os principais achados de forma clara e eficaz usando Power BI.
 
 **Recomendações:** Sugestões baseadas nos insights encontrados para otimizar as vendas e melhorar a logística.
+
+**Ferramentas Utilizadas:** SQL e Power Bi
+
 ______________________________________________________________________________________________________________________________________________________________________________
 
 ## **2. Previsão de Preços de Casas com Regressão Linear**
@@ -30,6 +31,6 @@ As etapas principais deste projeto incluem:
 
 **Avaliação de Desempenho:** Uso de métricas como RMSE (Root Mean Squared Error) e R² para avaliar a precisão do modelo.
 
-**Otimização do Modelo**: Ajuste de hiperparâmetros e validação cruzada para melhorar a performance preditiva.
+**Aplicação Prática:** Predição do valor de um imóvel 
 
-**Ferramentas Utilizadas:** Python: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+**Ferramentas Utilizadas:** Python
