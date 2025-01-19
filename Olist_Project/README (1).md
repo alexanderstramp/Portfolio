@@ -95,19 +95,25 @@ ________________________________________________________________________________
 
 **Eficiência Logística**
 
-<img src="Imagens/entregas.png" alt="Tabelas" width="800" height="300"/>
+<img src="Imagens/entregas.png" alt="Tabelas" width="900" height="300"/>
 
 Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
 **Página 3**
-* O pico de vendas no período analisado ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. No entanto, a capacidade logística pareceu insuficiente para lidar com o aumento de volume, resultando em um número significativo de entregas atrasadas nesse mesmo período. Essa situação refletiu-se negativamente no CSAT (Customer Satisfaction Score), registrando um dos menores valores históricos (ver página Experiência do Cliente - CSAT, Gráfico 5).
+
+**4.** O pico de vendas no período analisado ocorreu em novembro de 2017, possivelmente impulsionado pela Black Friday. No entanto, a capacidade logística pareceu insuficiente para lidar com o aumento de volume, resultando em um número significativo de entregas atrasadas nesse mesmo período. Essa situação refletiu-se negativamente no CSAT (Customer Satisfaction Score), registrando um dos menores valores históricos (ver página Experiência do Cliente - CSAT, Gráfico 5).
 * A eficiência logística em 2018 enfrentou desafios significativos, o Gráfico 3 revela que, em termos absolutos, a região Sudeste registra o maior número de entregas atrasadas. No entanto, proporcionalmente, apenas 7% das entregas na região Sudeste são feitas fora do prazo, em contraste com 14% na região Nordeste e 9% na região Norte. Isso pode ser atribuído à complexidade logística em regiões mais distantes, onde múltiplas transportadoras estão envolvidas, aumentando o tempo de trânsito dos produtos.
 * O CARD Valor Médio do Frete em vermelho indica um aumento no custo de frete entre os dois anos, possivelmente influenciado por fatores externos como aumento nos preços de pedágio e óleo diesel.
+
+**4.1. Recomendação:** Implementar uma estratégia de expansão logística focada em períodos de alta demanda, mediante a análise de dados históricos de volume de pedidos e sazonalidade. Para mitigar riscos de atraso e melhorar a eficiência nas entregas, recomenda-se o estabelecimento de parcerias estratégicas com transportadoras e empresas de ônibus que oferecem serviços de transporte de mercadorias. A seleção dessas parcerias será baseada em uma análise detalhada de custo-benefício e desempenho, considerando métricas como tempo de entrega, taxa de sucesso nas entregas e cobertura regional. A utilização de transportadoras locais, com expertise nas áreas de destino, poderá melhorar a agilidade e precisão das entregas, contribuindo para uma experiência de cliente superior.
+
+**4.2. Recomendação:** Analisar e otimizar o lead time entre a confirmação de compra e o despacho do pedido pelo vendedor. O objetivo é identificar gargalos e implementar melhorias que aumentem a eficiência operacional e reduzam o tempo de entrega ao cliente. Esta análise envolverá o uso de métricas de desempenho, análise de dados históricos e modelagem preditiva para recomendar ações que possam acelerar o processo de fulfillment.
+
 _____________________________________________________________________________________________________________________________________________________________________________
 
 **Satisfação do Cliente**
 
-<img src="Imagens/clientes.png" alt="Tabelas" width="800" height="300"/>
+<img src="Imagens/clientes.png" alt="Tabelas" width="900" height="300"/>
 
  Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
@@ -119,7 +125,7 @@ ________________________________________________________________________________
 
 **Análise de Vendedores**
 
-<img src="Imagens/vendedores.png" alt="Tabelas" width="800" height="300"/>
+<img src="Imagens/vendedores.png" alt="Tabelas" width="900" height="300"/>
 
 Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
