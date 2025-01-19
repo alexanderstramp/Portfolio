@@ -1,6 +1,7 @@
 # **Portfolio de Análise de Dados**
 Bem-vindo ao meu portfólio de projetos de análise de dados! Aqui você encontrará uma coleção de trabalhos que demonstram minhas habilidades em análise de dados, visualização e modelagem preditiva. 
-Estes projetos foram desenvolvidos para aplicar e aprimorar técnicas analíticas em cenários reais e fictícios, utilizando ferramentas como Python, Pandas, Seaborn, Power BI, entre outras. Abaixo, apresento uma visão geral dos projetos incluídos neste portfólio:
+Estes projetos foram desenvolvidos para aplicar e aprimorar técnicas analíticas em cenários reais, utilizando ferramentas como Python, SQL, Power BI.
+Abaixo, apresento uma visão geral dos projetos incluídos neste portfólio:
 
 ## **1. Olist e-commerce**
 Este projeto foca na análise detalhada de um banco de dados de vendas de um e-commerce. O objetivo foi extrair insights significativos para entender o comportamento de compra dos clientes, identificar tendências de vendas e avaliar o desempenho logístico.
