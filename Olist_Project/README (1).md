@@ -63,7 +63,9 @@ Em termos de eficiência logística, 2018 apresentou desafios notáveis, com aum
 A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT (Customer Satisfaction Score). Os resultados dos dois anos revelam uma taxa de satisfação de apenas 78,9%, com avaliações positivas ficando aquém do esperado. Esse dado evidencia a necessidade de estratégias direcionadas para a conversão de clientes insatisfeitos em promotores da marca, um fator crítico para o crescimento sustentável do negócio.
 _____________________________________________________________________________________________________________________________________________________________________________
 
-**A seguir, são destacados os principais pontos identificados durante a análise, com uma abordagem mais detalhada e que demandam atenção imediata. Em seguida, são apresentadas as recomendações de plano de ação, específicos para cada aspecto identificado.**
+## **Detalhamento da Análise:** 
+
+**Exploração minuciosa dos pontos críticos, seguida de sugestões de ações corretivas para cada aspecto abordado.**
 
 **Análise de Vendas**
 
