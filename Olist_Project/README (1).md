@@ -13,7 +13,7 @@ O objetivo é fornecer insights estratégicos que possam ser aplicados para otim
 _______________________________________________________________________________________________________________________________________________________________________
 
 ## **Insights e recomendações são fornecidos nos seguintes tópicos:**
-**Análise de Vendas:** Avaliação de padrões históricos de vendas, tanto globalmente quanto por região, com foco em Receita, Volume de Pedidos e Valor Médio dos Pedidos.
+**Análise de Vendas:** Avaliação de padrões históricos de vendas, tanto nacionalmente quanto por região, com foco em Receita, Volume de Pedidos e Valor Médio dos Pedidos.
 	
 **Eficiência Logística:** Avaliação da eficiência nas entregas e seu impacto na satisfação do cliente. Destacando a quantidade de entregas fora do prazo, divididas por categorias e regiões.
  
