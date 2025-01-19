@@ -65,7 +65,7 @@ ________________________________________________________________________________
 
 ## **Detalhamento da Análise:** 
 
-**Exploração minuciosa dos pontos críticos, seguida de sugestões de ações corretivas para cada aspecto abordado.**
+**Exploração minuciosa dos pontos críticos, seguida de planos de ações para cada aspecto abordado.**
 
 **Análise de Vendas**
 
