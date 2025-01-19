@@ -69,7 +69,7 @@ ________________________________________________________________________________
 
 **Análise de Vendas**
 
-<img src="Imagens/vendas.png" alt="Tabelas" width="900" height="400"/>
+<img src="Imagens/vendas.png" alt="Tabelas" width="900" height="300"/>
 
 Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
