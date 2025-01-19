@@ -21,5 +21,6 @@ TB_ACT_PEDIDOS: Armazena todos os registros de pedidos realizados no período an
 TB_ACT_ITENS_DOS_PEDIDOS: Detalha os itens contidos em cada pedido, com informações sobre valores de frete, vendedores associados e preços dos produtos.
 
 TB_ACT_AVALIAÇÕES_DOS_PEDIDOS: Contém feedbacks dos clientes, incluindo a pontuação atribuída às compras, variando de 1 a 5 estrelas.
+ 
 
 
