@@ -120,9 +120,18 @@ ________________________________________________________________________________
  Dashboard interativo disponível [[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)]
 
 **Página 4**
+
 * O CSAT é uma métrica que quantifica a satisfação do cliente com base na proporção de avaliações positivas em relação ao total de avaliações recebidas. Avaliações de 4 e 5 estrelas são consideradas positivas, enquanto 1, 2 e 3 estrelas são consideradas negativas.
-* O CARD 1 CSAT % revela um valor de satisfação abaixo de 80%, indicado pelo fundo amarelo. Quando o CSAT atinge ou supera 80%, o fundo do card muda para verde, refletindo uma meta de satisfação atingida. A satisfação do cliente é crítica para a sustentabilidade e sucesso do negócio.
-* Conforme o Gráfico 5, a região Sul lidera em satisfação com 79,9%, enquanto o Nordeste apresenta o menor índice de satisfação, com 74,2%. Em e-commerce, a satisfação está fortemente correlacionada à eficiência no processo de entrega.
+  
+**5.** O CARD 1 CSAT % revela um valor de satisfação abaixo de 80%, indicado pelo fundo amarelo. Quando o CSAT atinge ou supera 80%, o fundo do card muda para verde, refletindo uma meta de satisfação atingida. A satisfação do cliente é crítica para a sustentabilidade e sucesso do negócio.
+
+**5.1. Recomendação:** Implementar um sistema de comunicação eficiente para informar os clientes sobre prazos de entrega e possíveis atrasos, especialmente durante períodos críticos. Analisar dados de performance de entrega e ajustar as mensagens de forma que aumentem a confiança do cliente e reduzam as reclamações.
+
+**5.2. Recomendação:** Estabelecer um programa contínuo de coleta de feedback, utilizando ferramentas de análise de sentimentos para capturar e resolver problemas reportados por clientes insatisfeitos. Analisar os dados de feedback para identificar áreas de melhoria e transformar clientes insatisfeitos em promotores da marca.
+
+**6.** Conforme o Gráfico 5, a região Sul lidera em satisfação com 79,9%, enquanto o Nordeste apresenta o menor índice de satisfação, com 74,2%. Em e-commerce, a satisfação está fortemente correlacionada à eficiência no processo de entrega.
+
+**6.1. Recomendação:** Conduzir análises detalhadas de CSAT (Customer Satisfaction Score) em regiões com baixo desempenho, identificando as causas subjacentes das insatisfações. Estabelecer metas específicas para CSAT e monitorar o desempenho de forma contínua, ajustando estratégias conforme necessário para melhorar a experiência do cliente.
 _____________________________________________________________________________________________________________________________________________________________________________
 
 **Análise de Vendedores**
