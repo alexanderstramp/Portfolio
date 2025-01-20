@@ -5,6 +5,12 @@
 
 ## **Predição de Preços de Casas com Regressão Linear**
 ________________________________________________________________________________________________________________________________________________________________________________
+## **1. Introdução**
+
+**Objetivo:** Prever o preço de propriedades residenciais com base em variáveis relacionadas às características físicas e geográficas dos imóveis.
+
+**Metodologia:** Aplicação de técnicas de regressão linear para quantificar a relação entre múltiplas variáveis independentes (como área construída, localização, e tipo de propriedade) e o preço do imóvel, com o objetivo de entender a influência de cada fator no valor de mercado.
+______________________________________________________________________________________________________________________________________________________________________________
 
 ## **2. Descrição da Base de Dados**
 
