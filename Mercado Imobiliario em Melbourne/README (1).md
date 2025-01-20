@@ -121,7 +121,6 @@ Embora esses valores extremos possam ser reais, como o preço de uma casa perten
 <img src="Imagens2/preco2.png" alt="Tabelas" width="400" height="440"/>
 
 
-* este processo foi aplicado em outras variaveis também
 _____________________________________________________________________________________________________________________________________________________________________________
 
 
