@@ -85,7 +85,7 @@ Após a remoção e tratamento dos valores faltantes, a base de dados contém 27
 
 
 
-Em caso de duvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
+Em caso de dúvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **6. informações Estatísticas dos Dados**
@@ -155,7 +155,7 @@ ________________________________________________________________________________
 <img src="Imagens2/categorica.png" alt="Tabelas" width="1000" height="130"/>
 
 
-Em caso de duvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
+Em caso de dúvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **10. Modelos de Regressao Linear**
@@ -200,7 +200,7 @@ Abaixo, vemos que os valores preditos pelo modelo2 estão muito próximos aos va
 <img src="Imagens2/predito2.png" alt="Tabelas" width="420" height="460"/>
 
 
-Em caso de duvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
+Em caso de dúvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **11. Comparando o RMSE dos dois modelos**
@@ -252,7 +252,7 @@ ________________________________________________________________________________
 
 De acordo com o modelo2, a casa com essas caracteristicas, nessa regiao, deve custar aproximadamente **$760.000**
 
-Em caso de duvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
+Em caso de dúvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
 _______________________________________________________________________________________________________________________________________________________________________
 ## **14. Casas Similares**
 
@@ -312,7 +312,7 @@ Portanto, o modelo deve ser utilizado como um complemento à expertise de profis
 
 Este projeto demonstrou que modelos de aprendizado de máquina, como a regressão linear, podem fornecer insights relevantes e apoiar decisões estratégicas em um contexto econômico complexo. No entanto, o uso dessas ferramentas deve ser realizado de forma responsável, com a compreensão de suas limitações e complementaridade aos esforços humanos.
 
-Em caso de duvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
+Em caso de dúvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
 _______________________________________________________________________________________________________________________________________________________________________
 
 
