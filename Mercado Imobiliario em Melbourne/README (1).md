@@ -212,7 +212,7 @@ Ao comparar os modelos, métricas como o RMSE (Root Mean Square Error) são fund
 
 Observa-se que o Modelo2 possui um RMSE mais baixo, indicando que suas previsões são, em média, mais próximas dos valores reais em comparação ao Modelo 1. Essa diferença, embora modesta, é significativa, pois demonstra uma melhoria na capacidade do Modelo 2 em prever valores com menor erro médio.
 
-**Pelos motivos ciados, o modelo2 será utilizado para a predição a seguir**
+**Pelos motivos citados acima, o modelo2 será utilizado para a predição a seguir**
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **12. Predição(Aplicação Prática)**
