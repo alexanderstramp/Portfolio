@@ -246,6 +246,7 @@ Observa-se que, apesar das similaridades nos atributos avaliados, os valores de 
 
 <img src="Imagens2/similares.png" alt="Tabelas" width="560" height="460"/>
 _______________________________________________________________________________________________________________________________________________________________________
+
 ## **15. Conclusão**
 
 Ao final deste projeto, foi possível observar a robustez do modelo de regressão linear na predição de valores de moradias. Este estudo demonstrou como algoritmos de aprendizado de máquina podem atuar como ferramentas poderosas e versáteis em diversas áreas econômicas.
