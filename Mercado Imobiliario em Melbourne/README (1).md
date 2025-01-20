@@ -50,6 +50,11 @@ O conjunto de dados bruto consiste em 34.857 registros e 21 variáveis, represen
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
+**4.1 Tradução para o português**
+
+Como este projeto visa ser apresentado no Brasil, decidi por traduzir o nome das variáveis.
+
+<img src="Imagens2/traducao.png" alt="Tabelas" width="1100" height="500"/>
 
 
 
