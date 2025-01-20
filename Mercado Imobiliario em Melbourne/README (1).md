@@ -1,5 +1,5 @@
 
-<img src="Imagens2/logo.png" alt="Tabelas" width="500" height="250"/>
+<img src="Imagens2/logo.png" alt="Tabelas" width="600" height="330"/>
 
 # **Mercado Imobiliário em Melbourne**
 
