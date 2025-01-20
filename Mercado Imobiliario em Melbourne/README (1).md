@@ -6,7 +6,7 @@
 ## **Predição de Preços de Casas com Regressão Linear**
 ________________________________________________________________________________________________________________________________________________________________________________
 
-##**2. Descrição da Base de Dados**
+## **2. Descrição da Base de Dados**
 
 *   **Origem dos dados**: Base de dados com informações sobre preços de casas na cidade de Melbourne, Austrália.
 *   **Fonte**: Kaggle  [link](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)
@@ -16,7 +16,7 @@ ________________________________________________________________________________
     * **Area construída**: Área construída (em metros quadrados)
     * **Região**: Região onde a casa está localizada
     * **Tipo de imóvel**: Casa, Sobrado e Apartamento
-
+________________________________________________________________________________________________________________________________________________________________________________
 
 
 
