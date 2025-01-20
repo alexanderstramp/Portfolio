@@ -84,6 +84,8 @@ ________________________________________________________________________________
 
 **Abaixo, a base de dados já sem os valores faltantes**
 
+Após a remoção e tratamento dos valores faltantes, a base de dados contém 27.244 registros e 12 variáveis.
+
 <img src="Imagens2/limpa.png" alt="Tabelas" width="250" height="500"/>
 
 
