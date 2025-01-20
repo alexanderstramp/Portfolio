@@ -188,4 +188,65 @@ Abaixo, vemos que os valores preditos estão muito próximos dos valores reais d
 <img src="Imagens2/modelo2.png" alt="Tabelas" width="520" height="400"/>
 
 
+**Avaliação do modelo2**
+
+Abaixo, vemos que os valores preditos pelo modelo2 estão muito próximos aos valores reais, alguns até melhor que o modelo1. 
+
+<img src="Imagens2/predito2.png" alt="Tabelas" width="420" height="460"/>
+
+
+_____________________________________________________________________________________________________________________________________________________________________________
+
+## **11. Comparando o RMSE dos dois modelos**
+
+Esses resultados mostram que o Modelo 2 tem um RMSE mais baixo, indicando previsões mais precisas em comparação ao Modelo 1. A menor diferença sugere uma melhoria modesta, mas significativa, na capacidade do Modelo 2 de prever valores com menor erro médio.
+
+**RMSE Modelo1**:  0.3355251413220781
+
+**RMSE Modelo2**:  0.3225953587496436
+_____________________________________________________________________________________________________________________________________________________________________________
+
+## **12. Predição(Aplicação Prática)**
+
+Agora chegamos no momento que justifica todo nosso trabalho até aqui. A predição do valor de uma casa, usando nosso modelo de regressao linear.
+
+Imagine que na imobiliária que vc trabalha um cliente entrou em contato dizendo que quer colocar a casa a venda, mas nao sabe exatamente o valor de venda. É nesse momento que nosso modelo de predição entra em ação.
+
+O primeiro passo é colher todas as informações para preencher nosso modelo, ou seja, as características da casa.
+
+**12.1. Vou criar aqui uma casa que os valores das características serão fictícios**
+
+**Importante**
+
+Embora nossa casa seja fictícia, é importante frizar que alguns valores devem ser coerentes. Por exemplo, se a casa fica na regiao Northern Metropolitan, a distância do centro comercial deve ser de 2.5. É claro que com exemplos da vida real esse detalhe nao precisa ser mencionado
+
+* Preco .......................... é o valor que estamos buscando
+* Comodos ................... 3
+* Distancia C. Comer ... 2.5
+* Quartos ...................... 1.0
+* Banheiros ................... 1.0
+* Vaga p/ Carro ............. 1.0
+* Tamanho terreno ........ 132.0
+* Area construida ........... 86.0
+* Ano de construcao - .... 2001.0
+* Qtd imoveis area ......... 4019.0
+* Tipo .............................. Tipo Casa
+* Regiao ...........................Northern Metropolitan
+_______________________________________________________________________________________________________________________________________________________________________
+
+##**13. Valor da casa predito**
+
+De acordo com o modelo2, a casa com essas caracteristicas, nessa regiao, deve custar aproximadamente **$760.000**
+_______________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
 
