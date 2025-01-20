@@ -11,7 +11,6 @@ ________________________________________________________________________________
 **Data da Criação:** 20/01/2025
 _____________________________________________________________________________________________________________________________________________________________________________
 
-
 ## **1. Introdução**
 
 **Objetivo:** Prever o preço de propriedades residenciais com base em variáveis relacionadas às características físicas e geográficas dos imóveis.
@@ -20,11 +19,10 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________________
 
 ## **3. Fontes e Ferramentas**
-A fonte dos dados utilizados na análise, do website Kaggle, está disponível  [aqui](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-As consultas SQL utilizadas para limpar, organizar e preparar os dados para o dashboard estão disponíveis [aqui](https://github.com/alexanderstramp/Portfolio/tree/main/Olist_Project/SQL_Consultas)
+A fonte dos dados utilizados na análise, do website Kaggle, está disponível [aqui](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)
 
-O Dashboard interativo do Power BI está disponível [aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)
+O notebook do projeto, realizado no Google Colab, está disponível [aqui](https://github.com/alexanderstramp/Portfolio/tree/main/Olist_Project/SQL_Consultas)
 ______________________________________________________________________________________________________________________________________________________________________________
 
 ## **2. Descrição da Base de Dados**
@@ -37,6 +35,7 @@ ________________________________________________________________________________
     * **Região**: Região onde a casa está localizada
     * **Tipo de imóvel**: Casa, Sobrado e Apartamento
 ______________________________________________________________________________________________________________________________________________________________________________
+
 
 
 
