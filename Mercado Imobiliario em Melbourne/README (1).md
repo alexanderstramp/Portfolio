@@ -156,7 +156,7 @@ ________________________________________________________________________________
 
 ## **10. Modelos de Regressao Linear**
 
-**Modelo1**
+#### **10.1 Modelo1**
 
 * Neste **modelo1**, vou usar as variáveis codificadas derivadas das categóricas
 * Lembrando que para isso, devo deixar uma categoria de fora de cada conjunto de variáveis derivadas
@@ -175,7 +175,7 @@ Abaixo, vemos que os valores preditos estão muito próximos dos valores reais d
 <img src="Imagens2/predito1.png" alt="Tabelas" width="420" height="460"/>
 
 
-**Modelo2**
+#### **10.2 Modelo2**
 
 * Neste **modelo2**, vou usar as variáveis codificadas derivadas das categóricas
 * Lembrando que para isso, devo deixar uma categoria de fora de cada conjunto de variáveis derivadas
