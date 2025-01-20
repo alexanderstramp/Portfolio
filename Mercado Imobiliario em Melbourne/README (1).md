@@ -73,6 +73,29 @@ ________________________________________________________________________________
 <img src="Imagens2/faltantes.png" alt="Tabelas" width="400" height="400"/>
 
 
+______________________________________________________________________________________________________________________________________________________________________________
+**5.2 Remoção dos valores faltantes**
+
+**Cada variável recebeu um tratamento diverso.**
+
+* A variável Preço(variável dependente) teve os valores faltantes removidos.
+* Algumas variáveis, como: Distancia, Banheiro, Vaga Carro, tiveram os valores preenchidos com 0.
+* Variáveis como Tamanho terreno e Area Construida tiveram os valores faltantes preenchidos com a mediana dos valores das casas da mesma região.
+
+**Abaixo, a base de dados já sem os valores faltantes**
+
+<img src="Imagens2/limpa.png" alt="Tabelas" width="400" height="400"/>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
