@@ -37,7 +37,7 @@ O notebook do projeto, realizado no Google Colab, está disponível [aqui](https
 
 **3.1 Bibliotecas utilizadas no ambiente Python**
 
-<img src="Imagens2/bibliotecas.png" alt="Tabelas" width="600" height="250"/>
+<img src="Imagens2/bibliotecas.png" alt="Tabelas" width="500" height="200"/>
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
@@ -45,12 +45,19 @@ ________________________________________________________________________________
 
 O conjunto de dados bruto consiste em 34.857 registros e 21 variáveis, representando informações detalhadas sobre as propriedades.
 
-<img src="Imagens2/carregamento.png" alt="Tabelas" width="1100" height="500"/>
+<img src="Imagens2/carregamento.png" alt="Tabelas" width="1100" height="440"/>
 
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
+**4.1 Tradução para o português**
 
+Como este projeto visa ser apresentado no Brasil, decidi por traduzir o nome das variáveis.
+
+<img src="Imagens2/traducao.png" alt="Tabelas" width="1100" height="140"/>
+
+
+______________________________________________________________________________________________________________________________________________________________________________
 
 
 
