@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 A fonte dos dados utilizados na análise, do website Kaggle, está disponível [aqui](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)
 
-O notebook do projeto, realizado no Google Colab, está disponível [aqui](https://github.com/alexanderstramp/Portfolio/tree/main/Olist_Project/SQL_Consultas)
+O notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
 
 **3.1 Bibliotecas utilizadas no ambiente Python**
 
