@@ -73,21 +73,9 @@ ________________________________________________________________________________
 ## **Detalhamento da Análise:** 
 
 **Abaixo, uma exploração minuciosa dos pontos críticos, seguida de recomendações de plano de ações para cada aspecto abordado.**
-
-**Insights e recomendações são fornecidos nos seguintes tópicos:**
-
-**Análise de Vendas:** Avaliação de padrões históricos de vendas, tanto nacionalmente quanto por região, com foco em Receita, Volume de Pedidos e Valor Médio dos Pedidos.
-	
-**Eficiência Logística:** Avaliação da eficiência nas entregas e seu impacto na satisfação do cliente. Destacando a quantidade de entregas fora do prazo, divididas por categorias e regiões.
- 
-**Satisfação do Cliente:** Uma análise do feedback dos clientes, incluindo a métrica CSAT e a identificação de áreas para melhorias.
-
-**Análise de Vendedores:** Avaliar o volume de vendas, atendimento ao cliente, quantidade ao longo do tempo, grupo com os maiores faturamentos.
 _____________________________________________________________________________________________________________________________________________________________________________
 
-_____________________________________________________________________________________________________________________________________________________________________________
-
-**Análise de Vendas**
+## **Análise de Vendas**
 
 <img src="Imagens/vendas.png" alt="Tabelas" width="900" height="300"/>
 
@@ -113,7 +101,7 @@ médio. Utilizar análise de dados de comportamento de compra para personalizar 
 direcionar esforços para regiões com menor participação de vendas. Ao mesmo tempo criar programas de fidelização que oferecam beneficios exclusivos.
 _____________________________________________________________________________________________________________________________________________________________________________
 
-**Eficiência Logística**
+## **Eficiência Logística**
 
 <img src="Imagens/entregas.png" alt="Tabelas" width="900" height="300"/>
 
@@ -133,7 +121,7 @@ O CARD Valor Médio do Frete em vermelho indica um aumento no custo de frete ent
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
-**Satisfação do Cliente**
+## **Satisfação do Cliente**
 
 <img src="Imagens/clientes.png" alt="Tabelas" width="900" height="300"/>
 
@@ -154,7 +142,7 @@ O CSAT é uma métrica que quantifica a satisfação do cliente com base na prop
 **6.1 Recomendação:** Conduzir análises detalhadas de CSAT (Customer Satisfaction Score) em regiões com baixo desempenho, identificando as causas subjacentes das insatisfações. Estabelecer metas específicas para CSAT e monitorar o desempenho de forma contínua, ajustando estratégias conforme necessário para melhorar a experiência do cliente.
 _____________________________________________________________________________________________________________________________________________________________________________
 
-**Análise de Vendedores**
+## **Análise de Vendedores**
 
 <img src="Imagens/vendedores.png" alt="Tabelas" width="900" height="300"/>
 
