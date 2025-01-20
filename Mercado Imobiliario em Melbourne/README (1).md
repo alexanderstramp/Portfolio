@@ -166,7 +166,7 @@ ________________________________________________________________________________
 * Da variável Tipo, vou deixar a **Tipo_Casa** de fora
 * Da variável Regiao, vou deixar a **Western Victoria** de fora
 
-<img src="Imagens2/modelo.png" alt="Tabelas" width="660" height="400"/>
+<img src="Imagens2/modelo.png" alt="Tabelas" width="600" height="350"/>
 
 
 **Avaliação do modelo1**
