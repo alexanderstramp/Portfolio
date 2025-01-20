@@ -156,6 +156,8 @@ ________________________________________________________________________________
 
 ## **10. Modelos de Regressao Linear**
 
+**Abaixo, vou criar dois modelos de regressao utiliando combinações diferentes das variáveis do banco de dados.**
+
 #### **10.1 Modelo1**
 
 * Neste **modelo1**, vou usar as variáveis codificadas derivadas das categóricas
@@ -209,8 +211,6 @@ Ao comparar os modelos, métricas como o RMSE (Root Mean Square Error) são fund
 **RMSE Modelo2:** 0.3225953587496436
 
 Observa-se que o Modelo2 possui um RMSE mais baixo, indicando que suas previsões são, em média, mais próximas dos valores reais em comparação ao Modelo 1. Essa diferença, embora modesta, é significativa, pois demonstra uma melhoria na capacidade do Modelo 2 em prever valores com menor erro médio.
-
-A importância dessa comparação reside no fato de que modelos diferentes podem capturar nuances distintas dos dados. O processo de criação e análise de múltiplos modelos:
 
 **Pelos motivos ciados, o modelo2 será utilizado para a predição a seguir**
 _____________________________________________________________________________________________________________________________________________________________________________
