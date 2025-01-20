@@ -54,7 +54,7 @@ ________________________________________________________________________________
 
 Como este projeto visa ser apresentado no Brasil, decidi por traduzir o nome das variáveis.
 
-<img src="Imagens2/traducao.png" alt="Tabelas" width="1100" height="200"/>
+<img src="Imagens2/traducao.png" alt="Tabelas" width="1100" height="180"/>
 
 
 ______________________________________________________________________________________________________________________________________________________________________________
