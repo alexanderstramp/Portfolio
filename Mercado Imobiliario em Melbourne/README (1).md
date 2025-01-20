@@ -19,17 +19,23 @@ ________________________________________________________________________________
 **Metodologia:** Aplicação de técnicas de regressão linear para quantificar a relação entre múltiplas variáveis independentes (como área construída, localização, e tipo de propriedade) e o preço do imóvel, com o objetivo de entender a influência de cada fator no valor de mercado.
 ______________________________________________________________________________________________________________________________________________________________________________
 
-## **2. Descrição da Base de Dados**
+## **2. Fontes e Descrição da Base de Dados**
+
+*   **Fonte**:
+  
+Kaggle  [link](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)
+
+
+
 
 *   **Origem dos dados**: Base de dados com informações sobre preços de casas na cidade de Melbourne, Austrália.
-*   **Fonte**: Kaggle  [link](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)
 *   **Período de coleta**: 2016 - 2018
 *   **Principais Variáveis**:
     * **Preço**: Preço do imóvel (variável resposta)
     * **Area construída**: Área construída (em metros quadrados)
     * **Região**: Região onde a casa está localizada
     * **Tipo de imóvel**: Casa, Sobrado e Apartamento
-________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________
 
 
 
