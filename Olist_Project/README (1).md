@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 <img src="Imagens/normalizacaotabelas.png" alt="Tabelas" width="1100" height="500"/>
 
-**Posteriormente, no Power Bi, foi que optei por traduzir os nomes das tabelas**
+**Posteriormente, no Power Bi, optei por traduzir os nomes das tabelas**
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **Modelagem dos Dados**
