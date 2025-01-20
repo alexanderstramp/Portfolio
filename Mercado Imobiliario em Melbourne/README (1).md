@@ -152,6 +152,7 @@ ________________________________________________________________________________
 **9.2 Codificação das variáveis categóricas**
 
 <img src="Imagens2/categorica.png" alt="Tabelas" width="1000" height="130"/>
+
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **10. Modelos de Regressao Linear**
@@ -165,7 +166,6 @@ ________________________________________________________________________________
 * Da variável Tipo, vou deixar a **Tipo_Casa** de fora
 * Da variável Regiao, vou deixar a **Western Victoria** de fora
 
-<img src="Imagens2/modelo1.png" alt="Tabelas" width="1000" height="130"/>
 
 
 
