@@ -48,8 +48,6 @@ O conjunto de dados bruto consiste em 34.857 registros e 21 variáveis, represen
 <img src="Imagens2/carregamento.png" alt="Tabelas" width="1100" height="440"/>
 
 
-______________________________________________________________________________________________________________________________________________________________________________
-
 **4.1 Tradução para o português**
 
 Como este projeto visa ser apresentado no Brasil, decidi por traduzir o nome das variáveis.
@@ -57,7 +55,7 @@ Como este projeto visa ser apresentado no Brasil, decidi por traduzir o nome das
 <img src="Imagens2/traducao.png" alt="Tabelas" width="1100" height="180"/>
 
 
-______________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________
 
 ## **5. Limpeza dos Dados**
 
@@ -66,14 +64,11 @@ ________________________________________________________________________________
 <img src="Imagens2/remocaovar.png" alt="Tabelas" width="550" height="200"/>
 
 
-______________________________________________________________________________________________________________________________________________________________________________
-
 **5.1 Valores faltantes**
 
 <img src="Imagens2/faltantes.png" alt="Tabelas" width="430" height="400"/>
 
 
-_____________________________________________________________________________________________________________________________________________________________________________
 **5.2 Remoção dos valores faltantes**
 
 **Cada variável recebeu um tratamento diverso.**
@@ -130,14 +125,14 @@ Embora esses valores extremos possam ser reais, como o preço de uma casa perten
 _____________________________________________________________________________________________________________________________________________________________________________
 
 
-## **9. Correlações **
+## **8. Correlações **
 
 A matriz de correlação é extremamente útil em um projeto de regressão linear. Esta visualização ajuda a identificar relações lineares, selecionar variáveis relevantes, idendtificar multicolinearidade, explorar padrões de dados,evitar overfitting, etc.
 
 <img src="Imagens2/matriz.png" alt="Tabelas" width="600" height="440"/>
 
 
-**9.2. Interpretação da matriz de correlação**
+**8.2. Interpretação da matriz de correlação**
 
 Ao analisar a matriz de correlação percebemos os seguintes pontos:
 * As variáveis mais correlacionadas a variável resposta são: Comodos, Área construida, Quartos, Banheiros, Ano de construcao.
@@ -147,6 +142,15 @@ Ao analisar a matriz de correlação percebemos os seguintes pontos:
 **Estes insights são vitais para a construção dos modelos de predição
 _____________________________________________________________________________________________________________________________________________________________________________
 
+## **9 Preparação dos dados para modelagem**
 
+**9.1 Padronização dos variáveis numéricas**
+
+<img src="Imagens2/numericas.png" alt="Tabelas" width="1000" height="160"/>
+
+
+**9.2 Codificação das variáveis categóricas **
+
+<img src="Imagens2/categoricas.png" alt="Tabelas" width="1000" height="160"/>
 
 
