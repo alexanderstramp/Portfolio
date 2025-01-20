@@ -123,6 +123,7 @@ Embora esses valores extremos possam ser reais, como o preço de uma casa perten
 
 <img src="Imagens2/preco.png" alt="Tabelas" width="400" height="400"/>
 
+<img src="Imagens2/preco.png" alt="Tabelas" width="330" height="400"/>
 
 
 
