@@ -37,7 +37,7 @@ O notebook do projeto, realizado no Google Colab, está disponível [aqui](https
 
 **3.1 Bibliotecas utilizadas no ambiente Python**
 
-<img src="Imagens2/bibliotecas.png" alt="Tabelas" width="600" height="250"/>
+<img src="Imagens2/bibliotecas.png" alt="Tabelas" width="500" height="200"/>
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
