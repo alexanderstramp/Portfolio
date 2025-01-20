@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 #### **Abaixo segue 0 exemplo do processo de normalização de uma das tabelas**
 
-<img src="Imagens/normalizacaotabelas.png" alt="Tabelas" width="900" height="400"/>
+<img src="Imagens/normalizacaotabelas.png" alt="Tabelas" width="1100" height="500"/>
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **Modelagem dos Dados**
