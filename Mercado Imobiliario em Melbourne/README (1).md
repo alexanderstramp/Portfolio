@@ -142,7 +142,7 @@ Ao analisar a matriz de correlação percebemos os seguintes pontos:
 **Estes insights são vitais para a construção dos modelos de predição
 _____________________________________________________________________________________________________________________________________________________________________________
 
-## **9 Preparação dos dados para modelagem**
+## **9. Preparação dos dados para modelagem**
 
 **9.1 Padronização dos variáveis numéricas**
 
@@ -151,6 +151,28 @@ ________________________________________________________________________________
 
 **9.2 Codificação das variáveis categóricas**
 
-<img src="Imagens2/categoricas.png" alt="Tabelas" width="1000" height="160"/>
+<img src="Imagens2/categorica.png" alt="Tabelas" width="1000" height="130"/>
+_____________________________________________________________________________________________________________________________________________________________________________
+
+## **10. Modelos de Regressao Linear**
+
+* Neste **modelo1**, vou usar as variáveis codificadas derivadas das categóricas
+* Lembrando que para isso, devo deixar uma categoria de fora de cada conjunto de variáveis derivadas
+* Esta categoria sera tratada como categoria base
+* E deve ser a mesma para todos os modelos, criando consistência nas predições
+
+
+* Da variável Tipo, vou deixar a **Tipo_Casa** de fora
+* Da variável Regiao, vou deixar a **Western Victoria** de fora
+
+<img src="Imagens2/modelo1.png" alt="Tabelas" width="1000" height="130"/>
+
+
+
+
+
+
+
+
 
 
