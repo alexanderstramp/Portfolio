@@ -57,5 +57,7 @@ Como este projeto visa ser apresentado no Brasil, decidi por traduzir o nome das
 <img src="Imagens2/traducao.png" alt="Tabelas" width="1100" height="140"/>
 
 
+______________________________________________________________________________________________________________________________________________________________________________
+
 
 
