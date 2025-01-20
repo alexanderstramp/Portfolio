@@ -3,7 +3,7 @@
 
 # **Mercado Imobiliário em Melbourne**
 
-## **Predição de Preços de Casas com Regressão Linear**
+## **Predição de Preços de Imóveis utilizando Regressão Linear**
 ________________________________________________________________________________________________________________________________________________________________________________
 ## **1. Introdução**
 
