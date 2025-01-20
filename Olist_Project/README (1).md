@@ -88,13 +88,15 @@ Dashboard interativo disponível [aqui](https://app.powerbi.com/view?r=eyJrIjoiO
 **1.1 Recomendação:** Realizar análises detalhadas de períodos de baixo crescimento para identificar padrões e fatores de impacto que possam influenciar a demanda. 
 Paralelamente, aplicar modelos de previsão para estimar a demanda futura, utilizando dados históricos e variáveis externas. Esta abordagem integrada permitirá antecipar flutuações de mercado, otimizar o planejamento de estoque e melhorar a eficiência operacional, evitando tanto excessos quanto faltas de produtos.
 
+**1.2 Recomendação:** Desenvolver campanhas de marketing segmentadas por região, com base em análises de dados históricos de vendas e preferências locais, além de direcionar esforços para regiões com menor participação de vendas. Ao mesmo tempo criar programas de fidelização que oferecam beneficios exclusivos.
+
+**1.3 Recomendação:** Acompanhar em tempo real as tendências de consumo, especialmente nas redes sociais, para identificar e explorar oportunidades rápidas. Por exemplo, construir campanhas de marketing ágeis, como o uso de vídeos virais, aproveitando o timing de tendências emergentes.
   
 **2.** Houve um aumento marginal de 0,48% no ticket médio entre os períodos analisados (ver Card Ticket Médio da página 1).
   
 **2.1 Recomendação:** Implementar estratégias de vendas cruzadas e bundles, combinando produtos complementares e criando promoções com foco na maximização do ticket 
 médio. Utilizar análise de dados de comportamento de compra para personalizar as ofertas e otimizar os resultados.
 
-  
 **3.** O Gráfico 4 também ilustra diferenças nas preferências de compra por região. No Centro-Oeste, Nordeste e Norte, beleza_saúde é a categoria mais vendida. No Sudeste, cama_mesa_banho lidera, enquanto no Sul, esporte_lazer domina as vendas.
 
 **3.1 Recomendação:** Desenvolver campanhas de marketing segmentadas por região, com base em análises de dados históricos de vendas e preferências locais, além de 
@@ -115,9 +117,9 @@ A eficiência logística em 2018 enfrentou desafios significativos, o Gráfico 3
 
 O CARD Valor Médio do Frete em vermelho indica um aumento no custo de frete entre os dois anos, possivelmente influenciado por fatores externos como aumento nos preços de pedágio e óleo diesel.
 
-**4.1. Recomendação:** Analisar e otimizar o lead time entre a confirmação de compra e o despacho do pedido pelo vendedor. O objetivo é identificar gargalos e implementar melhorias que aumentem a eficiência operacional e reduzam o tempo de entrega ao cliente. Esta análise envolverá o uso de métricas de desempenho, análise de dados históricos e modelagem preditiva para recomendar ações que possam acelerar o processo de fulfillment.
+**4.1 Recomendação:** Analisar e otimizar o lead time entre a confirmação de compra e o despacho do pedido pelo vendedor. O objetivo é identificar gargalos e implementar melhorias que aumentem a eficiência operacional e reduzam o tempo de entrega ao cliente. Esta análise envolverá o uso de métricas de desempenho, análise de dados históricos e modelagem preditiva para recomendar ações que possam acelerar o processo de fulfillment.
 
-**4.2. Recomendação:** Implementar uma estratégia de expansão logística focada em períodos de alta demanda, mediante a análise de dados históricos de volume de pedidos e sazonalidade. Para mitigar riscos de atraso e melhorar a eficiência nas entregas, recomenda-se o estabelecimento de parcerias estratégicas com transportadoras e empresas de ônibus que oferecem serviços de transporte de mercadorias. A seleção dessas parcerias será baseada em uma análise detalhada de custo-benefício e desempenho, considerando métricas como tempo de entrega, taxa de sucesso nas entregas e cobertura regional. A utilização de transportadoras locais, com expertise nas áreas de destino, poderá melhorar a agilidade e precisão das entregas, contribuindo para uma experiência de cliente superior.
+**4.2 Recomendação:** Implementar uma estratégia de expansão logística focada em períodos de alta demanda, mediante a análise de dados históricos de volume de pedidos e sazonalidade. Para mitigar riscos de atraso e melhorar a eficiência nas entregas, recomenda-se o estabelecimento de parcerias estratégicas com transportadoras e empresas de ônibus que oferecem serviços de transporte de mercadorias. A seleção dessas parcerias será baseada em uma análise detalhada de custo-benefício e desempenho, considerando métricas como tempo de entrega, taxa de sucesso nas entregas e cobertura regional. A utilização de transportadoras locais, com expertise nas áreas de destino, poderá melhorar a agilidade e precisão das entregas, contribuindo para uma experiência de cliente superior.
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
@@ -133,13 +135,13 @@ O CSAT é uma métrica que quantifica a satisfação do cliente com base na prop
   
 **5.** O CARD 1 CSAT % revela um valor de satisfação abaixo de 80%, indicado pelo fundo amarelo. Quando o CSAT atinge ou supera 80%, o fundo do card muda para verde, refletindo uma meta de satisfação atingida. A satisfação do cliente é crítica para a sustentabilidade e sucesso do negócio.
 
-**5.1. Recomendação:** Implementar um sistema de comunicação eficiente para informar os clientes sobre prazos de entrega e possíveis atrasos, especialmente durante períodos críticos. Analisar dados de performance de entrega e ajustar as mensagens de forma que aumentem a confiança do cliente e reduzam as reclamações.
+**5.1 Recomendação:** Implementar um sistema de comunicação eficiente para informar os clientes sobre prazos de entrega e possíveis atrasos, especialmente durante períodos críticos. Analisar dados de performance de entrega e ajustar as mensagens de forma que aumentem a confiança do cliente e reduzam as reclamações.
 
-**5.2. Recomendação:** Estabelecer um programa contínuo de coleta de feedback, utilizando ferramentas de análise de sentimentos para capturar e resolver problemas reportados por clientes insatisfeitos. Analisar os dados de feedback para identificar áreas de melhoria e transformar clientes insatisfeitos em promotores da marca.
+**5.2 Recomendação:** Estabelecer um programa contínuo de coleta de feedback, utilizando ferramentas de análise de sentimentos para capturar e resolver problemas reportados por clientes insatisfeitos. Analisar os dados de feedback para identificar áreas de melhoria e transformar clientes insatisfeitos em promotores da marca.
 
 **6.** Conforme o Gráfico 5, a região Sul lidera em satisfação com 79,9%, enquanto o Nordeste apresenta o menor índice de satisfação, com 74,2%. Em e-commerce, a satisfação está fortemente correlacionada à eficiência no processo de entrega.
 
-**6.1. Recomendação:** Conduzir análises detalhadas de CSAT (Customer Satisfaction Score) em regiões com baixo desempenho, identificando as causas subjacentes das insatisfações. Estabelecer metas específicas para CSAT e monitorar o desempenho de forma contínua, ajustando estratégias conforme necessário para melhorar a experiência do cliente.
+**6.1 Recomendação:** Conduzir análises detalhadas de CSAT (Customer Satisfaction Score) em regiões com baixo desempenho, identificando as causas subjacentes das insatisfações. Estabelecer metas específicas para CSAT e monitorar o desempenho de forma contínua, ajustando estratégias conforme necessário para melhorar a experiência do cliente.
 _____________________________________________________________________________________________________________________________________________________________________________
 
 **Análise de Vendedores**
@@ -152,15 +154,15 @@ Dashboard interativo disponível [aqui](https://app.powerbi.com/view?r=eyJrIjoiO
 
 **7.** O Gráfico 1 apresenta uma análise temporal da correlação entre o número de vendedores ativos e o volume de vendas gerado. A correlação positiva observada sugere que a expansão da base de vendedores contribui diretamente para o crescimento das vendas totais.
 
-**7.1. Recomendação:** Estabelecer políticas para aquisição e retenção de vendedores, com foco especial em regiões com baixa representatividade, utilizando dados de desempenho e análise geográfica para otimizar a distribuição de recursos.
+**7.1 Recomendação:** Estabelecer políticas para aquisição e retenção de vendedores, com foco especial em regiões com baixa representatividade, utilizando dados de desempenho e análise geográfica para otimizar a distribuição de recursos.
 
 **8.** Os Gráficos 2 e 3 mostram a distribuição de faturamento por vendedor, indicando uma concentração significativa de vendedores com baixo desempenho.
 
-**8.1. Recomendação:** Implementar estratégias de vendas cruzadas e bundles, combinando produtos complementares e criando promoções com foco na maximização do ticket médio. Utilizar análise de dados de comportamento de compra para personalizar as ofertas e otimizar os resultados.
+**8.1 Recomendação:** Implementar estratégias de vendas cruzadas e bundles, combinando produtos complementares e criando promoções com foco na maximização do ticket médio. Utilizar análise de dados de comportamento de compra para personalizar as ofertas e otimizar os resultados.
 
 **9.** O CARD Forma de Pagamento expõe a variabilidade nas opções de pagamento oferecidas pelos vendedores. A análise dos dados sugere que a baixa diversificação nas formas de pagamento pode estar correlacionada com a perda de vendas. 
 
-**9.1. Recomendação:** Recomenda-se instruir os vendedores a diversificarem as formas de pagamento oferecidas, destacando a correlação positiva entre a disponibilidade de opções de pagamento e o aumento nas vendas. Quando necessário, fornecer suporte no processo de implementação dessas opções para assegurar a adesão e eficácia da estratégia. Ações como esta reforçam a parceria entre os vendedores e a empresa.
+**9.1 Recomendação:** Recomenda-se instruir os vendedores a diversificarem as formas de pagamento oferecidas, destacando a correlação positiva entre a disponibilidade de opções de pagamento e o aumento nas vendas. Quando necessário, fornecer suporte no processo de implementação dessas opções para assegurar a adesão e eficácia da estratégia. Ações como esta reforçam a parceria entre os vendedores e a empresa.
 
 
 _____________________________________________________________________________________________________________________________________________________________________________
