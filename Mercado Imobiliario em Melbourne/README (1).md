@@ -64,12 +64,12 @@ ________________________________________________________________________________
 <img src="Imagens2/remocaovar.png" alt="Tabelas" width="550" height="200"/>
 
 
-**5.1 Valores faltantes**
+**5.2 Valores faltantes**
 
 <img src="Imagens2/faltantes.png" alt="Tabelas" width="430" height="400"/>
 
 
-**5.2 Remoção dos valores faltantes**
+**5.3 Remoção dos valores faltantes**
 
 **Cada variável recebeu um tratamento diverso.**
 
@@ -131,7 +131,7 @@ A matriz de correlação é extremamente útil em um projeto de regressão linea
 <img src="Imagens2/matriz.png" alt="Tabelas" width="600" height="440"/>
 
 
-**8.2. Interpretação da matriz de correlação**
+**8.1. Interpretação da matriz de correlação**
 
 Ao analisar a matriz de correlação percebemos os seguintes pontos:
 * As variáveis mais correlacionadas a variável resposta são: Comodos, Área construida, Quartos, Banheiros, Ano de construcao.
