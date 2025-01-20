@@ -41,9 +41,9 @@ O notebook do projeto, realizado no Google Colab, está disponível [aqui](https
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
-## **Carregamento e Visualização dos Dados**
+## **4. Carregamento e Visualização dos Dados**
 
-A base de dados, ainda sem tratamento, contém 
+O conjunto de dados bruto consiste em 34.857 registros e 21 variáveis, representando informações detalhadas sobre as propriedades.
 
 <img src="Imagens2/carregamento.png" alt="Tabelas" width="1100" height="500"/>
 
