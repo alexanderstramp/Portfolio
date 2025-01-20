@@ -142,7 +142,7 @@ Ao analisar a matriz de correlação percebemos os seguintes pontos:
 **Estes insights são vitais para a construção dos modelos de predição
 _____________________________________________________________________________________________________________________________________________________________________________
 
-## **9 Preparação dos dados para modelagem**
+## **9. Preparação dos dados para modelagem**
 
 **9.1 Padronização dos variáveis numéricas**
 
