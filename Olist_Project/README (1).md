@@ -37,6 +37,15 @@ As consultas SQL utilizadas para limpar, organizar e preparar os dados para o da
 O Dashboard interativo do Power BI está disponível [aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)
 _____________________________________________________________________________________________________________________________________________________________________________
 
+## **Metodologia**
+
+**Ingestão e Análise Exploratória de Dados:** A ingestão de dados foi realizada utilizando SQL, permitindo uma compreensão detalhada da estrutura dos dados e a identificação de valores ausentes, inconsistências e outliers. Esta etapa foi fundamental para garantir a integridade dos dados antes de prosseguir com análises mais aprofundadas.
+
+**Pré-processamento de Dados:** O pré-processamento foi conduzido diretamente no ambiente SQL, onde foram implementadas técnicas de limpeza de dados, normalização e seleção de variáveis de interesse. Esta fase envolveu a aplicação de filtros, transformações e junções necessárias para preparar os dados para análise, assegurando a qualidade e relevância das variáveis selecionadas.
+
+**Integração no Power BI:** As tabelas normalizadas e tratadas foram então integradas ao Power BI, onde foram modeladas e utilizadas para a construção de visualizações interativas. O uso do Power BI permitiu uma análise visual dinâmica, facilitando a identificação de padrões e insights a partir dos dados previamente processados.
+_____________________________________________________________________________________________________________________________________________________________________________
+
 ## **Modelagem dos Dados**
 A estrutura principal do banco de dados da empresa, conforme descrito abaixo, consiste em sete tabelas, com mais de 95.000 registros cada. A descrição do conteúdo de cada tabela é dado abaixo:
 
