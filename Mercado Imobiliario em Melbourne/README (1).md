@@ -70,7 +70,7 @@ ________________________________________________________________________________
 
 **5.1 Valores faltantes**
 
-<img src="Imagens2/faltantes.png" alt="Tabelas" width="300" height="200"/>
+<img src="Imagens2/faltantes.png" alt="Tabelas" width="300" height="350"/>
 
 
 
