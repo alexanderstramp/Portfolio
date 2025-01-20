@@ -157,6 +157,8 @@ ________________________________________________________________________________
 
 ## **10. Modelos de Regressao Linear**
 
+**Modelo1**
+
 * Neste **modelo1**, vou usar as variáveis codificadas derivadas das categóricas
 * Lembrando que para isso, devo deixar uma categoria de fora de cada conjunto de variáveis derivadas
 * Esta categoria sera tratada como categoria base
@@ -167,7 +169,9 @@ ________________________________________________________________________________
 <img src="Imagens2/modelo.png" alt="Tabelas" width="500" height="300"/>
 
 
+**Avaliação do modelo1**
 
+<img src="Imagens2/predito1.png" alt="Tabelas" width="500" height="300"/>
 
 
 
