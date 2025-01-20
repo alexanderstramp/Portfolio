@@ -35,6 +35,10 @@ ________________________________________________________________________________
 **Pré-processamento de Dados:** O pré-processamento foi conduzido diretamente no ambiente SQL, onde foram implementadas técnicas de limpeza de dados, normalização e seleção de variáveis de interesse. Esta fase envolveu a aplicação de filtros, transformações e junções necessárias para preparar os dados para análise, assegurando a qualidade e relevância das variáveis selecionadas.
 
 **Integração no Power BI:** As tabelas normalizadas e tratadas foram então integradas ao Power BI, onde foram modeladas e utilizadas para a construção de visualizações interativas. O uso do Power BI permitiu uma análise visual dinâmica, facilitando a identificação de padrões e insights a partir dos dados previamente processados.
+
+#### **Abaixo segue um exemplo de umas das tabelas sendo normalizada**
+
+<img src="Imagens/normalizacaotabelas.png" alt="Tabelas" width="700" height="200"/>
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **Modelagem dos Dados**
