@@ -1,5 +1,5 @@
 
-<img src="Imagens2/logo.png" alt="Tabelas" width="700" height="300"/>
+<img src="Imagens2/logo.png" alt="Tabelas" width="500" height="200"/>
 
 
 
