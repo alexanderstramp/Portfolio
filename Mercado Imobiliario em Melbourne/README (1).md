@@ -43,6 +43,8 @@ ________________________________________________________________________________
 
 ## **Carregamento e Visualização dos Dados**
 
+A base de dados, ainda sem tratamento, contém 
+
 <img src="Imagens2/carregamento.png" alt="Tabelas" width="1100" height="500"/>
 
 
