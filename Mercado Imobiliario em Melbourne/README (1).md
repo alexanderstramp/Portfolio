@@ -151,6 +151,5 @@ ________________________________________________________________________________
 
 **9.2 Codificação das variáveis categóricas**
 
-<img src="Imagens2/categoricas.png" alt="Tabelas" width="1000" height="160"/>
 
 
