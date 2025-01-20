@@ -105,14 +105,23 @@ ________________________________________________________________________________
 
 * Em média, as moradias apresentam três comodos e uma vaga para carro
 
-
 * **Lembrando que estes valores apresentam outliers, e precisam ser devidamente tratatos.*
 _____________________________________________________________________________________________________________________________________________________________________________
 
 
+## **7. Removendo Outliers**
 
+Outliers são valores que se desviam significativamente do padrão da maioria dos dados em uma base. Eles podem distorcer análises estatísticas, como médias e desvios padrão, e afetar modelos preditivos, comprometendo a precisão das conclusões. Removê-los ajuda a obter resultados mais representativos e melhorar a qualidade da análise.
 
+**Abaixo, o exemplo da variável Preço**
 
+A variável "Preço" apresenta outliers nos valores mais altos, o que pode ser melhorado removendo os 1% superiores dos dados.
+
+**Explicação:**
+
+Embora esses valores extremos possam ser reais, como o preço de uma casa pertencente a uma celebridade, eles não representam a maioria dos imóveis da região. Tais valores fora da normalidade podem distorcer o modelo de regressão e afetar a precisão das previsões, por isso, é recomendável removê-los para obter um modelo mais robusto.
+
+<img src="Imagens2/preco.png" alt="Tabelas" width="250" height="500"/>
 
 
 
