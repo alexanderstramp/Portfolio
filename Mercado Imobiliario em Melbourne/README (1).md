@@ -198,11 +198,24 @@ ________________________________________________________________________________
 
 ## **11. Comparando o RMSE dos dois modelos**
 
-Esses resultados mostram que o Modelo 2 tem um RMSE mais baixo, indicando previsões mais precisas em comparação ao Modelo 1. A menor diferença sugere uma melhoria modesta, mas significativa, na capacidade do Modelo 2 de prever valores com menor erro médio.
+O **RMSE (Root Mean Square Error)** é uma métrica que mede a diferença média entre os valores previstos por um modelo e os valores reais, indicando a precisão das previsões. Quanto menor o RMSE, mais preciso é o modelo.
 
-**RMSE Modelo1**:  0.3355251413220781
+Construir dois ou mais modelos de regressão linear e compará-los é uma prática essencial na análise preditiva. Esse processo permite identificar qual modelo oferece previsões mais precisas e, consequentemente, é o mais adequado para ser utilizado em futuras previsões.
 
-**RMSE Modelo2**:  0.3225953587496436
+Ao comparar os modelos, métricas como o RMSE (Root Mean Square Error) são fundamentais para avaliar a precisão. Por exemplo, considerando os resultados apresentados:
+
+**RMSE Modelo1:** 0.3355251413220781
+**RMSE Modelo2:** 0.3225953587496436
+
+Observa-se que o Modelo2 possui um RMSE mais baixo, indicando que suas previsões são, em média, mais próximas dos valores reais em comparação ao Modelo 1. Essa diferença, embora modesta, é significativa, pois demonstra uma melhoria na capacidade do Modelo 2 em prever valores com menor erro médio.
+
+A importância dessa comparação reside no fato de que modelos diferentes podem capturar nuances distintas dos dados. O processo de criação e análise de múltiplos modelos:
+
+**Explora diferentes variáveis** e interações, garantindo que o modelo escolhido seja o mais representativo.
+
+**Aumenta a confiança** na decisão, pois se baseia em evidências quantitativas de desempenho.
+
+**Reduz o risco de overfitting**, uma vez que permite avaliar a generalização dos modelos em diferentes conjuntos de dados.
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **12. Predição(Aplicação Prática)**
