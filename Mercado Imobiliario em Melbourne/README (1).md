@@ -197,7 +197,7 @@ Abaixo, vemos que os valores preditos pelo modelo2 estão muito próximos aos va
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
-##**11. Comparando o RMSE dos dois modelos**
+## **11. Comparando o RMSE dos dois modelos**
 
 Esses resultados mostram que o Modelo 2 tem um RMSE mais baixo, indicando previsões mais precisas em comparação ao Modelo 1. A menor diferença sugere uma melhoria modesta, mas significativa, na capacidade do Modelo 2 de prever valores com menor erro médio.
 
