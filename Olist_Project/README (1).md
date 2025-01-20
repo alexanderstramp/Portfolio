@@ -160,9 +160,11 @@ Dashboard interativo disponível [aqui](https://app.powerbi.com/view?r=eyJrIjoiO
 
 **8.1 Recomendação:** Implementar estratégias de vendas cruzadas e bundles, combinando produtos complementares e criando promoções com foco na maximização do ticket médio. Utilizar análise de dados de comportamento de compra para personalizar as ofertas e otimizar os resultados.
 
+**8.2 Recomendação:** Oferecer capacitação para vendedores sobre marketing digital, com ênfase na utilização de redes sociais como canais de vendas. Analisar dados de engajamento para ajustar as estratégias e maximizar o alcance.
+
 **9.** O CARD Forma de Pagamento expõe a variabilidade nas opções de pagamento oferecidas pelos vendedores. A análise dos dados sugere que a baixa diversificação nas formas de pagamento pode estar correlacionada com a perda de vendas. 
 
-**9.1 Recomendação:** Recomenda-se instruir os vendedores a diversificarem as formas de pagamento oferecidas, destacando a correlação positiva entre a disponibilidade de opções de pagamento e o aumento nas vendas. Quando necessário, fornecer suporte no processo de implementação dessas opções para assegurar a adesão e eficácia da estratégia. Ações como esta reforçam a parceria entre os vendedores e a empresa.
+**9.1 Recomendação:** Instruir os vendedores a diversificarem as formas de pagamento oferecidas, destacando a correlação positiva entre a disponibilidade de opções de pagamento e o aumento nas vendas. Quando necessário, fornecer suporte no processo de implementação dessas opções para assegurar a adesão e eficácia da estratégia. Ações como esta reforçam a parceria entre os vendedores e a empresa.
 
 
 _____________________________________________________________________________________________________________________________________________________________________________
