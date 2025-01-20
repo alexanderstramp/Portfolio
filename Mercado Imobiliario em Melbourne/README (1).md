@@ -151,7 +151,7 @@ ________________________________________________________________________________
 
 **10.1 Padronização dos variáveis numéricas**
 
-<img src="Imagens2/numericas.png" alt="Tabelas" width="1000" height="440"/>
+<img src="Imagens2/numericas.png" alt="Tabelas" width="1000" height="200"/>
 
 
 
