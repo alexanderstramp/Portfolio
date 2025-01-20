@@ -154,11 +154,15 @@ Dashboard interativo disponível [aqui](https://app.powerbi.com/view?r=eyJrIjoiO
 
 **7.1 Recomendação:** Estabelecer políticas para aquisição e retenção de vendedores, com foco especial em regiões com baixa representatividade, utilizando dados de desempenho e análise geográfica para otimizar a distribuição de recursos.
 
+**7.2 Recomendação:** Estabelecer um sistema de feedback contínuo para os vendedores, com base em dados de performance, oferecendo sugestões personalizadas para aprimoramento. Estrategias como estas fortalecem a parceria.
+
 **8.** Os Gráficos 2 e 3 mostram a distribuição de faturamento por vendedor, indicando uma concentração significativa de vendedores com baixo desempenho.
 
 **8.1 Recomendação:** Implementar estratégias de vendas cruzadas e bundles, combinando produtos complementares e criando promoções com foco na maximização do ticket médio. Utilizar análise de dados de comportamento de compra para personalizar as ofertas e otimizar os resultados.
 
 **8.2 Recomendação:** Oferecer capacitação para vendedores sobre marketing digital, com ênfase na utilização de redes sociais como canais de vendas. Analisar dados de engajamento para ajustar as estratégias e maximizar o alcance.
+
+**8.3 Recomendação:**  Acompanhar em tempo real as tendências de consumo, especialmente nas redes sociais, para identificar e explorar oportunidades rápidas. Por exemplo, construir campanhas de marketing ágeis, como o uso de vídeos virais, aproveitando o timing de tendências emergentes.
 
 **9.** O CARD Forma de Pagamento expõe a variabilidade nas opções de pagamento oferecidas pelos vendedores. A análise dos dados sugere que a baixa diversificação nas formas de pagamento pode estar correlacionada com a perda de vendas. 
 
