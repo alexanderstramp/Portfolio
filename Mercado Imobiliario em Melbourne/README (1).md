@@ -238,14 +238,60 @@ ________________________________________________________________________________
 
 De acordo com o modelo2, a casa com essas caracteristicas, nessa regiao, deve custar aproximadamente **$760.000**
 _______________________________________________________________________________________________________________________________________________________________________
-## **14. Casas similares**
+## **14. Casas Similares**
 
 Abaixo estão listados alguns imóveis com características semelhantes ao exemplo usado na predição.
 
 Observa-se que, apesar das similaridades nos atributos avaliados, os valores de venda apresentam variações significativas. Essa discrepância é atribuída a fatores não capturados pela base de dados, como condições específicas do imóvel (estado de conservação, qualidade dos acabamentos), particularidades do mercado local e características subjetivas que influenciam a percepção de valor.
 
 <img src="Imagens2/similares.png" alt="Tabelas" width="560" height="460"/>
+_______________________________________________________________________________________________________________________________________________________________________
+## **15. Conclusão**
 
+Ao final deste projeto, foi possível observar a robustez do modelo de regressão linear na predição de valores de moradias. Este estudo demonstrou como algoritmos de aprendizado de máquina podem atuar como ferramentas poderosas e versáteis em diversas áreas econômicas.
+
+**Aplicações Práticas**
+
+O modelo desenvolvido pode ser aplicado em setores estratégicos, tais como:
+
+* **Setor Imobiliário e Construção Civil:**
+
+  * Determinação precisa de preços para suportar estratégias de venda ou locação.
+  * Identificação de áreas com alto potencial de valorização imobiliária.
+  * Otimização de portfólios de propriedades com base em tendências de mercado.
+
+
+* **Bancos e Instituições Financeiras:**
+
+  * Concessão de financiamentos ou hipotecas ancorada em valores justos de mercado.
+  * Avaliação de ativos imobiliários usados como garantia.
+  * Análise de riscos específicos para determinadas regiões.
+
+* **Seguradoras:**
+  * Precificação de apólices de seguros com base em localização e características do imóvel.
+  * Avaliação de riscos relacionados à contratação de seguros imobiliários.
+
+* **Governos e Políticas Públicas:**
+
+  * Suporte ao planejamento urbano e desenvolvimento habitacional.
+  * Identificação de zonas prioritárias para subsídios e políticas públicas.
+  * Análise dos impactos de regulamentações no mercado imobiliário.
+
+* **Consultoria e Investimentos:**
+
+  * Análise e gerenciamento de portfólios de investimentos imobiliários.
+  * Assessoria estratégica para fundos de investimento em propriedades.
+
+
+**Considerações Técnicas**
+
+Embora o modelo seja uma ferramenta valiosa para nortear decisões, ele apresenta limitações inerentes à dependência dos dados disponíveis. Variáveis não incluídas no conjunto de dados, como o estado de conservação do imóvel, qualidade do acabamento ou forma de pagamento, podem impactar significativamente os preços finais e precisam ser consideradas em conjunto com a previsão do modelo.
+
+Portanto, o modelo deve ser utilizado como um complemento à expertise de profissionais do setor, como corretores e analistas. Ele oferece uma base quantitativa sólida, mas decisões finais requerem a integração de fatores qualitativos não contemplados no modelo.
+
+**Conclusão**
+
+Este projeto demonstrou que modelos de aprendizado de máquina, como a regressão linear, podem fornecer insights relevantes e apoiar decisões estratégicas em um contexto econômico complexo. No entanto, o uso dessas ferramentas deve ser realizado de forma responsável, com a compreensão de suas limitações e complementaridade aos esforços humanos.
 
 
 
