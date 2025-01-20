@@ -54,7 +54,7 @@ ________________________________________________________________________________
 
 Como este projeto visa ser apresentado no Brasil, decidi por traduzir o nome das variáveis.
 
-<img src="Imagens2/traducao.png" alt="Tabelas" width="1100" height="140"/>
+<img src="Imagens2/traducao.png" alt="Tabelas" width="1100" height="180"/>
 
 
 ______________________________________________________________________________________________________________________________________________________________________________
@@ -84,10 +84,32 @@ ________________________________________________________________________________
 
 **Abaixo, a base de dados já sem os valores faltantes**
 
+Após a remoção e tratamento dos valores faltantes, a base de dados contém 27.244 registros e 12 variáveis.
+
 <img src="Imagens2/limpa.png" alt="Tabelas" width="250" height="500"/>
 
 
-______________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________
+
+## **6. informações Estatísticas dos Dados**
+
+* Nesta base de dados temos três tipos de moradias, sendo Casa a mais comun
+
+* As casas estão situadas em oito regiões, sendo Southern Metropolitan a que mais aparece na base de dados
+
+* O valor médio do preço das casas nesta base de dados é de  $1.050.210.00
+
+* O menor preço é de $85.000.00
+
+* O maior preço é de $11.200.000.00
+
+* Em média, as moradias apresentam três comodos e uma vaga para carro
+
+
+* **Lembrando que estes valores apresentam outliers, e precisam ser devidamente tratatos.*
+_____________________________________________________________________________________________________________________________________________________________________________
+
+
 
 
 
