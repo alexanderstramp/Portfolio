@@ -206,5 +206,43 @@ Esses resultados mostram que o Modelo 2 tem um RMSE mais baixo, indicando previs
 **RMSE Modelo2**:  0.3225953587496436
 _____________________________________________________________________________________________________________________________________________________________________________
 
+## **12. Predição(Aplicação Prática)**
+
+Agora chegamos no momento que justifica todo nosso trabalho até aqui. A predição do valor de uma casa, usando nosso modelo de regressao linear.
+
+Imagine que na imobiliária que vc trabalha um cliente entrou em contato dizendo que quer colocar a casa a venda, mas nao sabe exatamente o valor de venda. É nesse momento que nosso modelo de predição entra em ação.
+
+O primeiro passo é colher todas as informações para preencher nosso modelo, ou seja, as características da casa.
+
+**12.1. Vou criar aqui uma casa que os valores das características serão fictícios**
+
+**Importante**
+
+Embora nossa casa seja fictícia, é importante frizar que alguns valores devem ser coerentes. Por exemplo, se a casa fica na regiao Northern Metropolitan, a distância do centro comercial deve ser de 2.5. É claro que com exemplos da vida real esse detalhe nao precisa ser mencionado
+
+* Preco .......................... é o valor que estamos buscando
+* Comodos ................... 3
+* Distancia C. Comer ... 2.5
+* Quartos ...................... 1.0
+* Banheiros ................... 1.0
+* Vaga p/ Carro ............. 1.0
+* Tamanho terreno ........ 132.0
+* Area construida ........... 86.0
+* Ano de construcao - .... 2001.0
+* Qtd imoveis area ......... 4019.0
+* Tipo .............................. Tipo Casa
+* Regiao ...........................Northern Metropolitan
+_______________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
 
 
