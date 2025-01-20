@@ -217,7 +217,7 @@ ________________________________________________________________________________
 
 ## **12. Predição(Aplicação Prática)**
 
-Agora é chegado o momento que justifica todo nosso trabalho até aqui. A predição do valor de uma casa, usando nosso modelo de regressao linear(modelo2).
+É chegado o momento que justifica todo nosso trabalho até aqui. A predição do valor de uma casa, usando nosso modelo de regressao linear(modelo2).
 
 Imagine que na imobiliária que vc trabalha um cliente entrou em contato dizendo que quer colocar a casa a venda, mas nao sabe exatamente o valor de venda. É nesse momento que nosso modelo de predição entra em ação.
 
