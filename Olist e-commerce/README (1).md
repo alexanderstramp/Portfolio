@@ -9,18 +9,18 @@ ________________________________________________________________________________
 **Data da Criação:** 19/01/2025
 _____________________________________________________________________________________________________________________________________________________________________________
 
-## **Sobre a empresa**
+## **1. Sobre a empresa**
 
 Fundado em 2015, o Olist é uma plataforma de e-commerce que conecta lojistas a grandes marketplaces, como Amazon, Mercado Livre e Magalu, permitindo que os comerciantes expandam significativamente sua visibilidade e alcancem uma base diversificada de clientes em todo o Brasil. A plataforma oferece soluções integradas que facilitam o gerenciamento de estoques, pedidos e entregas, simplificando a operação para os lojistas e otimizando a experiência do consumidor final.
 O Olist possui uma rica base de dados abrangendo diversos aspectos críticos do negócio, incluindo vendas, desempenho dos vendedores, eficiência logística e níveis de satisfação do cliente. Com milhares de vendedores ativos e milhões de produtos cadastrados, a plataforma gera um volume massivo de transações diárias, o que possibilita uma análise detalhada e insights valiosos.
 _____________________________________________________________________________________________________________________________________________________________________________
 
-## **Objetivo da Análise**
+## **2. Objetivo da Análise**
 
 O objetivo é fornecer insights estratégicos que possam ser aplicados para otimizar processos, melhorar a eficiência logística, aumentar a satisfação do cliente e, consequentemente, impulsionar o sucesso comercial do Olist em um mercado de e-commerce cada vez mais competitivo. Além disso, esta análise busca destacar as áreas que necessitam de melhorias e desenvolver recomendações baseadas em dados para apoiar a tomada de decisão informada pelos gestores da empresa.
 _______________________________________________________________________________________________________________________________________________________________________
 
-## **Fontes e Ferramentas**
+## **3. Fontes e Ferramentas**
 A fonte dos dados utilizados na análise, do website Kaggle, está disponível  [aqui](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 As consultas SQL utilizadas para limpar, organizar e preparar os dados para o dashboard estão disponíveis [aqui](https://github.com/alexanderstramp/Portfolio/tree/main/Olist_Project/SQL_Consultas)
@@ -28,7 +28,7 @@ As consultas SQL utilizadas para limpar, organizar e preparar os dados para o da
 O Dashboard interativo do Power BI está disponível [aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdmZTUzOTMtYTk5YS00NzU1LThlZWQtZDc0NjE0MTNjNDdlIiwidCI6ImFhOTFlMTkyLWIzYmYtNDgzYy1hM2U2LTUzN2IyZWQyNTE5YSJ9)
 _____________________________________________________________________________________________________________________________________________________________________________
 
-## **Metodologia**
+## **4. Metodologia**
 
 **Ingestão e Análise Exploratória de Dados:** A ingestão de dados foi realizada utilizando SQL, permitindo uma compreensão detalhada da estrutura dos dados e a identificação de valores ausentes, inconsistências e outliers. Esta etapa foi fundamental para garantir a integridade dos dados antes de prosseguir com análises mais aprofundadas.
 
@@ -43,7 +43,7 @@ ________________________________________________________________________________
 **Posteriormente, no Power Bi, optei por traduzir os nomes das tabelas.**
 _____________________________________________________________________________________________________________________________________________________________________________
 
-## **Modelagem dos Dados**
+## **5. Modelagem dos Dados**
 A estrutura principal do banco de dados da empresa, conforme descrito abaixo, consiste em sete tabelas, com mais de 95.000 registros cada. A descrição do conteúdo de cada tabela é dado abaixo:
 
 **TB_ACT_PRODUTOS:** Esta tabela armazena informações detalhadas sobre os produtos, incluindo atributos como tamanho, peso e categoria associada.
@@ -67,7 +67,7 @@ A estrutura principal do banco de dados da empresa, conforme descrito abaixo, co
 ***Observação** A imagem acima contem sete tabelas, uma View (CATEGORIAS E PEDIDOS) e uma tabela(MEDIDAS) com as medidas DAX. 	
 _____________________________________________________________________________________________________________________________________________________________________________
 
-## **Resumo Executivo**
+## **6. Resumo Executivo**
 O ano de 2017 foi um marco significativo para a Olist. Ao analisar o desempenho de vendas, observa-se um crescimento expressivo de 562% quando se comparam o primeiro e o último mês do ano. Além disso, este período registrou o maior pico de vendas dentro do intervalo analisado, totalizando R$ 1.149.000, um mês excepcional. Esse resultado foi impulsionado por algumas categorias de produtos, destacando-se o segmento de beleza e saúde, que apresentou um crescimento de 392%, passando de R$ 14.000 em janeiro para R$ 69.000 em dezembro. É relevante mencionar que o faturamento apresentou uma disparidade regional, com a região Sudeste contribuindo com mais de 60% das vendas totais. É também na região sudeste que se concentra mais de 70% dos vendedores, algo que influencia o tempo que as entregas levam para chegar nas regiões mais distantes do mapa.
 
 No ano de 2018, o comportamento das vendas mostrou um padrão distinto. Embora tenha alcançado, em apenas sete meses, um faturamento superior ao do ano anterior inteiro, o período não apresentou crescimento contínuo. Pelo contrário, houve uma retração de 8% quando se comparam os números do início e do final do intervalo analisado.
@@ -76,7 +76,7 @@ Em termos de eficiência logística, 2018 apresentou desafios notáveis, com aum
 A análise também avaliou a satisfação do cliente, utilizando a métrica CSAT (Customer Satisfaction Score). Os resultados dos dois anos revelam uma taxa de satisfação de apenas 78,9%, com avaliações positivas ficando aquém do esperado. Esse dado evidencia a necessidade de estratégias direcionadas para a conversão de clientes insatisfeitos em promotores da marca, um fator crítico para o crescimento sustentável do negócio.
 _____________________________________________________________________________________________________________________________________________________________________________
 
-## **Detalhamento da Análise:** 
+## **7. Detalhamento da Análise:** 
 
 **Abaixo, uma exploração minuciosa dos pontos críticos, seguida de recomendações de plano de ações para cada aspecto abordado.**
 _____________________________________________________________________________________________________________________________________________________________________________
