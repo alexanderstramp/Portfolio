@@ -188,4 +188,16 @@ Abaixo, vemos que os valores preditos estão muito próximos dos valores reais d
 <img src="Imagens2/modelo2.png" alt="Tabelas" width="520" height="400"/>
 
 
+**Avaliação do modelo2**
+
+<img src="Imagens2/predito2.png" alt="Tabelas" width="420" height="460"/>
+
+
+Abaixo, vemos que os valores preditos pelo modelo2 estão muito próximos aos valores reais, alguns até melhor que o modelo1. 
+
+
+
+
+
+
 
