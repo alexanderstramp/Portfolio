@@ -18,17 +18,6 @@ ________________________________________________________________________________
 **Metodologia:** Aplicação de técnicas de regressão linear para quantificar a relação entre múltiplas variáveis independentes (como área construída, localização, e tipo de propriedade) e o preço do imóvel, com o objetivo de entender a influência de cada fator no valor de mercado.
 ______________________________________________________________________________________________________________________________________________________________________________
 
-## **3. Fontes e Ferramentas**
-
-A fonte dos dados utilizados na análise, do website Kaggle, está disponível [aqui](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)
-
-O notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
-
-**3.1 Bibliotecas utilizadas no ambiente Python**
-
-<img src="Imagens2/bibliotecas.png" alt="Tabelas" width="600" height="250"/>
-______________________________________________________________________________________________________________________________________________________________________________
-
 ## **2. Descrição da Base de Dados**
 
 *   **Origem dos dados**: Base de dados com informações sobre preços de casas na cidade de Melbourne, Austrália.
@@ -39,6 +28,18 @@ ________________________________________________________________________________
     * **Região**: Região onde a casa está localizada
     * **Tipo de imóvel**: Casa, Sobrado e Apartamento
 ______________________________________________________________________________________________________________________________________________________________________________
+
+## **3. Fontes e Ferramentas**
+
+A fonte dos dados utilizados na análise, do website Kaggle, está disponível [aqui](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)
+
+O notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
+
+**3.1 Bibliotecas utilizadas no ambiente Python**
+
+<img src="Imagens2/bibliotecas.png" alt="Tabelas" width="600" height="250"/>
+________________________________________________________________________________________________________________________________________________________________________
+
 
 
 
