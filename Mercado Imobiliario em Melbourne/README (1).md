@@ -45,7 +45,7 @@ ________________________________________________________________________________
 
 O conjunto de dados bruto consiste em 34.857 registros e 21 variáveis, representando informações detalhadas sobre as propriedades.
 
-<img src="Imagens2/carregamento.png" alt="Tabelas" width="1100" height="500"/>
+<img src="Imagens2/carregamento.png" alt="Tabelas" width="1100" height="440"/>
 
 
 ______________________________________________________________________________________________________________________________________________________________________________
