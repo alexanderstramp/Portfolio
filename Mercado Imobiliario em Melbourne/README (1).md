@@ -171,7 +171,7 @@ ________________________________________________________________________________
 
 **Avaliação do modelo1**
 
-<img src="Imagens2/predito1.png" alt="Tabelas" width="400" height="300"/>
+<img src="Imagens2/predito1.png" alt="Tabelas" width="420" height="400"/>
 
 
 
