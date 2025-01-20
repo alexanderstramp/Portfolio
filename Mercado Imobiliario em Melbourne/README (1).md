@@ -234,6 +234,10 @@ Embora nossa casa seja fictícia, é importante frizar que alguns valores devem 
 * Regiao ...........................Northern Metropolitan
 _______________________________________________________________________________________________________________________________________________________________________
 
+##**13. Valor da casa predito**
+
+De acordo com o modelo2, a casa com essas caracteristicas, nessa regiao, deve custar aproximadamente **$760.000**
+_______________________________________________________________________________________________________________________________________________________________________
 
 
 
