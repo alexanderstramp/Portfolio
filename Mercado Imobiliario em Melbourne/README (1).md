@@ -176,8 +176,16 @@ Abaixo, vemos que os valores preditos estão muito próximos dos valores reais d
 <img src="Imagens2/predito1.png" alt="Tabelas" width="420" height="400"/>
 
 
+**Modelo2**
 
+* Neste **modelo2**, vou usar as variáveis codificadas derivadas das categóricas
+* Lembrando que para isso, devo deixar uma categoria de fora de cada conjunto de variáveis derivadas
+* Esta categoria sera tratada como categoria base
+* E deve ser a mesma para todos os modelos, criando consistência nas predições
+* Da variável Tipo, vou deixar a **Tipo_Casa** de fora
+* Da variável Regiao, vou deixar a **Western Victoria** de fora
 
+<img src="Imagens2/modelo2.png" alt="Tabelas" width="420" height="400"/>
 
 
 
