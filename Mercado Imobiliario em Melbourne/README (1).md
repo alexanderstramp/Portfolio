@@ -23,6 +23,20 @@ ________________________________________________________________________________
 A fonte dos dados utilizados na análise, do website Kaggle, está disponível [aqui](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)
 
 O notebook do projeto, realizado no Google Colab, está disponível [aqui](https://github.com/alexanderstramp/Portfolio/tree/main/Olist_Project/SQL_Consultas)
+
+**3.1 Bibliotecas utilizadas no ambiente Python**
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.set()
+
+from scipy.stats import skew
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error
 ______________________________________________________________________________________________________________________________________________________________________________
 
 ## **2. Descrição da Base de Dados**
