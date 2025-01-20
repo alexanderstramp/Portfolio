@@ -234,10 +234,17 @@ Embora nossa casa seja fictícia, é importante frizar que alguns valores devem 
 * Regiao ...........................Northern Metropolitan
 _______________________________________________________________________________________________________________________________________________________________________
 
-##**13. Valor da casa predito**
+## **13. Valor da casa predito**
 
 De acordo com o modelo2, a casa com essas caracteristicas, nessa regiao, deve custar aproximadamente **$760.000**
 _______________________________________________________________________________________________________________________________________________________________________
+## **14. Casas similares**
+
+Abaixo estão listados alguns imóveis com características semelhantes ao exemplo usado na predição.
+
+Observa-se que, apesar das similaridades nos atributos avaliados, os valores de venda apresentam variações significativas. Essa discrepância é atribuída a fatores não capturados pela base de dados, como condições específicas do imóvel (estado de conservação, qualidade dos acabamentos), particularidades do mercado local e características subjetivas que influenciam a percepção de valor.
+
+<img src="Imagens2/similares.png" alt="Tabelas" width="420" height="460"/>
 
 
 
