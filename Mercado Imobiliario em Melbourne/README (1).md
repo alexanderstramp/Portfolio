@@ -205,17 +205,14 @@ Construir dois ou mais modelos de regressão linear e compará-los é uma práti
 Ao comparar os modelos, métricas como o RMSE (Root Mean Square Error) são fundamentais para avaliar a precisão. Por exemplo, considerando os resultados apresentados:
 
 **RMSE Modelo1:** 0.3355251413220781
+
 **RMSE Modelo2:** 0.3225953587496436
 
 Observa-se que o Modelo2 possui um RMSE mais baixo, indicando que suas previsões são, em média, mais próximas dos valores reais em comparação ao Modelo 1. Essa diferença, embora modesta, é significativa, pois demonstra uma melhoria na capacidade do Modelo 2 em prever valores com menor erro médio.
 
 A importância dessa comparação reside no fato de que modelos diferentes podem capturar nuances distintas dos dados. O processo de criação e análise de múltiplos modelos:
 
-**Explora diferentes variáveis** e interações, garantindo que o modelo escolhido seja o mais representativo.
-
-**Aumenta a confiança** na decisão, pois se baseia em evidências quantitativas de desempenho.
-
-**Reduz o risco de overfitting**, uma vez que permite avaliar a generalização dos modelos em diferentes conjuntos de dados.
+**Pelos motivos ciados, o modelo2 será utilizado para a predição a seguir**
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **12. Predição(Aplicação Prática)**
