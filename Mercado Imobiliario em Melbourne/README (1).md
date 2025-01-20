@@ -190,11 +190,12 @@ Abaixo, vemos que os valores preditos estão muito próximos dos valores reais d
 
 **Avaliação do modelo2**
 
+Abaixo, vemos que os valores preditos pelo modelo2 estão muito próximos aos valores reais, alguns até melhor que o modelo1. 
+
 <img src="Imagens2/predito2.png" alt="Tabelas" width="420" height="460"/>
 
 
-Abaixo, vemos que os valores preditos pelo modelo2 estão muito próximos aos valores reais, alguns até melhor que o modelo1. 
-
+_____________________________________________________________________________________________________________________________________________________________________________
 
 
 
