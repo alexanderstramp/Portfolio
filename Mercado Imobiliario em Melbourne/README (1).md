@@ -294,7 +294,7 @@ Portanto, o modelo deve ser utilizado como um complemento à expertise de profis
 **Conclusão**
 
 Este projeto demonstrou que modelos de aprendizado de máquina, como a regressão linear, podem fornecer insights relevantes e apoiar decisões estratégicas em um contexto econômico complexo. No entanto, o uso dessas ferramentas deve ser realizado de forma responsável, com a compreensão de suas limitações e complementaridade aos esforços humanos.
-
+_______________________________________________________________________________________________________________________________________________________________________
 
 
 
