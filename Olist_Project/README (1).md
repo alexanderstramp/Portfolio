@@ -88,9 +88,7 @@ Dashboard interativo disponível [aqui](https://app.powerbi.com/view?r=eyJrIjoiO
 **1.1 Recomendação:** Realizar análises detalhadas de períodos de baixo crescimento para identificar padrões e fatores de impacto que possam influenciar a demanda. 
 Paralelamente, aplicar modelos de previsão para estimar a demanda futura, utilizando dados históricos e variáveis externas. Esta abordagem integrada permitirá antecipar flutuações de mercado, otimizar o planejamento de estoque e melhorar a eficiência operacional, evitando tanto excessos quanto faltas de produtos.
 
-**1.2 Recomendação:** Desenvolver campanhas de marketing segmentadas por região, com base em análises de dados históricos de vendas e preferências locais, além de direcionar esforços para regiões com menor participação de vendas. Ao mesmo tempo criar programas de fidelização que oferecam beneficios exclusivos.
-
-**1.3 Recomendação:** Acompanhar em tempo real as tendências de consumo, especialmente nas redes sociais, para identificar e explorar oportunidades rápidas. Por exemplo, construir campanhas de marketing ágeis, como o uso de vídeos virais, aproveitando o timing de tendências emergentes.
+**1.2 Recomendação:** Acompanhar em tempo real as tendências de consumo, especialmente nas redes sociais, para identificar e explorar oportunidades rápidas. Por exemplo, construir campanhas de marketing ágeis, como o uso de vídeos virais, aproveitando o timing de tendências emergentes.
   
 **2.** Houve um aumento marginal de 0,48% no ticket médio entre os períodos analisados (ver Card Ticket Médio da página 1).
   
