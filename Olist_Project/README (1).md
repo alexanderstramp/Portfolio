@@ -19,16 +19,6 @@ O Olist possui uma rica base de dados abrangendo diversos aspectos críticos do 
 O objetivo é fornecer insights estratégicos que possam ser aplicados para otimizar processos, melhorar a eficiência logística, aumentar a satisfação do cliente e, consequentemente, impulsionar o sucesso comercial do Olist em um mercado de e-commerce cada vez mais competitivo. Além disso, esta análise busca destacar as áreas que necessitam de melhorias e desenvolver recomendações baseadas em dados para apoiar a tomada de decisão informada pelos gestores da empresa.
 _______________________________________________________________________________________________________________________________________________________________________
 
-## **Insights e recomendações são fornecidos nos seguintes tópicos:**
-**Análise de Vendas:** Avaliação de padrões históricos de vendas, tanto nacionalmente quanto por região, com foco em Receita, Volume de Pedidos e Valor Médio dos Pedidos.
-	
-**Eficiência Logística:** Avaliação da eficiência nas entregas e seu impacto na satisfação do cliente. Destacando a quantidade de entregas fora do prazo, divididas por categorias e regiões.
- 
-**Satisfação do Cliente:** Uma análise do feedback dos clientes, incluindo a métrica CSAT e a identificação de áreas para melhorias.
-
-**Análise de Vendedores:** Avaliar o volume de vendas, atendimento ao cliente, quantidade ao longo do tempo, grupo com os maiores faturamentos.
-_____________________________________________________________________________________________________________________________________________________________________________
-
 ## **Fontes e Ferramentas**
 A fonte dos dados utilizados na análise, do website Kaggle, está disponível  [aqui](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
@@ -82,6 +72,18 @@ ________________________________________________________________________________
 ## **Detalhamento da Análise:** 
 
 **Abaixo, uma exploração minuciosa dos pontos críticos, seguida de recomendações de plano de ações para cada aspecto abordado.**
+
+**Insights e recomendações são fornecidos nos seguintes tópicos:**
+
+**Análise de Vendas:** Avaliação de padrões históricos de vendas, tanto nacionalmente quanto por região, com foco em Receita, Volume de Pedidos e Valor Médio dos Pedidos.
+	
+**Eficiência Logística:** Avaliação da eficiência nas entregas e seu impacto na satisfação do cliente. Destacando a quantidade de entregas fora do prazo, divididas por categorias e regiões.
+ 
+**Satisfação do Cliente:** Uma análise do feedback dos clientes, incluindo a métrica CSAT e a identificação de áreas para melhorias.
+
+**Análise de Vendedores:** Avaliar o volume de vendas, atendimento ao cliente, quantidade ao longo do tempo, grupo com os maiores faturamentos.
+_____________________________________________________________________________________________________________________________________________________________________________
+
 _____________________________________________________________________________________________________________________________________________________________________________
 
 **Análise de Vendas**
