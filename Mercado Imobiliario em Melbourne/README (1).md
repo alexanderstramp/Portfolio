@@ -156,7 +156,7 @@ ________________________________________________________________________________
 
 ## **10. Modelos de Regressao Linear**
 
-**Abaixo, vou criar dois modelos de regressao utiliando combinações diferentes das variáveis do banco de dados.**
+**Abaixo, serão desenvolvidos dois modelos de regressão linear utilizando diferentes combinações de variáveis do conjunto de dados. Em seguida, será realizada uma análise comparativa da eficiência desses modelos para avaliar seu desempenho preditivo.**
 
 #### **10.1 Modelo1**
 
