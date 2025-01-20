@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 **Integração no Power BI:** As tabelas normalizadas e tratadas foram então integradas ao Power BI, onde foram modeladas e utilizadas para a construção de visualizações interativas. O uso do Power BI permitiu uma análise visual dinâmica, facilitando a identificação de padrões e insights a partir dos dados previamente processados.
 
-#### **Abaixo segue 0 exemplo do processo de normalização de uma das tabelas**
+#### **Abaixo segue um exemplo do processo de normalização das tabelas**
 
 <img src="Imagens/normalizacaotabelas.png" alt="Tabelas" width="1100" height="500"/>
 _____________________________________________________________________________________________________________________________________________________________________________
