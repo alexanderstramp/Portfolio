@@ -121,7 +121,7 @@ A variável "Preço" apresenta outliers nos valores mais altos, o que pode ser m
 
 Embora esses valores extremos possam ser reais, como o preço de uma casa pertencente a uma celebridade, eles não representam a maioria dos imóveis da região. Tais valores fora da normalidade podem distorcer o modelo de regressão e afetar a precisão das previsões, por isso, é recomendável removê-los para obter um modelo mais robusto.
 
-<img src="Imagens2/preco.png" alt="Tabelas" width="250" height="500"/>
+<img src="Imagens2/preco.png" alt="Tabelas" width="250" height="250"/>
 
 
 
