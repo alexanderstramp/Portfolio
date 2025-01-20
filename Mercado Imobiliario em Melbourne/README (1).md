@@ -37,7 +37,7 @@ O notebook do projeto, realizado no Google Colab, está disponível [aqui](https
 
 **3.1 Bibliotecas utilizadas no ambiente Python**
 
-<img src="Imagens2/bibliotecas.png" alt="Tabelas" width="500" height="200"/>
+<img src="Imagens2/bibliotecas.png" alt="Tabelas" width="550" height="200"/>
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
@@ -59,5 +59,11 @@ Como este projeto visa ser apresentado no Brasil, decidi por traduzir o nome das
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
+## **5. Limpeza dos Dados**
+
+**5.1 Remoção de variáveis**
+
+<img src="Imagens2/remocaovar.png" alt="Tabelas" width="550" height="200"/>
 
 
+______________________________________________________________________________________________________________________________________________________________________________
