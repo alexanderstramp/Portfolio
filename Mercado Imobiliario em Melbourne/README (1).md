@@ -220,16 +220,16 @@ O primeiro passo é colher todas as informações para preencher nosso modelo, o
 
 Embora nossa casa seja fictícia, é importante frizar que alguns valores devem ser coerentes. Por exemplo, se a casa fica na regiao Northern Metropolitan, a distância do centro comercial deve ser de 2.5. É claro que com exemplos da vida real esse detalhe nao precisa ser mencionado
 
-* Preco .......................... é o valor que estamos buscando
-* Comodos ................... 3
-* Distancia C. Comer ... 2.5
-* Quartos ...................... 1.0
-* Banheiros ................... 1.0
-* Vaga p/ Carro ............. 1.0
-* Tamanho terreno ........ 132.0
-* Area construida ........... 86.0
-* Ano de construcao - .... 2001.0
-* Qtd imoveis area ......... 4019.0
+* Preco ..........................    é o valor que estamos buscando
+* Comodos ...................       3
+* Distancia C. Comer ...       2.5
+* Quartos ......................    1.0
+* Banheiros ...................    1.0
+* Vaga p/ Carro .............     1.0
+* Tamanho terreno ........      132.0
+* Area construida ...........    86.0
+* Ano de construcao - ....    2001.0
+* Qtd imoveis area .........   4019.0
 * Tipo .............................. Tipo Casa
 * Regiao ...........................Northern Metropolitan
 _______________________________________________________________________________________________________________________________________________________________________
