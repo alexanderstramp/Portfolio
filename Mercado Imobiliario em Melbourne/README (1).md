@@ -173,7 +173,7 @@ ________________________________________________________________________________
 
 Abaixo, vemos que os valores preditos estão muito próximos dos valores reais da base de dados. Isso demonstra um  modelo de predição robusto. 
 
-<img src="Imagens2/predito1.png" alt="Tabelas" width="420" height="400"/>
+<img src="Imagens2/predito1.png" alt="Tabelas" width="420" height="420"/>
 
 
 **Modelo2**
