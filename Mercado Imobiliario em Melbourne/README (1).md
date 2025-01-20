@@ -244,7 +244,7 @@ Abaixo estão listados alguns imóveis com características semelhantes ao exemp
 
 Observa-se que, apesar das similaridades nos atributos avaliados, os valores de venda apresentam variações significativas. Essa discrepância é atribuída a fatores não capturados pela base de dados, como condições específicas do imóvel (estado de conservação, qualidade dos acabamentos), particularidades do mercado local e características subjetivas que influenciam a percepção de valor.
 
-<img src="Imagens2/similares.png" alt="Tabelas" width="600" height="460"/>
+<img src="Imagens2/similares.png" alt="Tabelas" width="700" height="460"/>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
