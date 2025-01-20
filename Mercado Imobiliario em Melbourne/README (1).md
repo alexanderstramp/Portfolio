@@ -84,6 +84,7 @@ ________________________________________________________________________________
 
 **Abaixo, a base de dados já sem os valores faltantes**
 
+<img src="Imagens2/limpa.png" alt="Tabelas" width="250" height="500"/>
 
 
 
