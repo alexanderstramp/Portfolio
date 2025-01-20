@@ -251,8 +251,6 @@ ________________________________________________________________________________
 ## **13. Valor da casa predito**
 
 De acordo com o modelo2, a casa com essas caracteristicas, nessa regiao, deve custar aproximadamente **$760.000**
-
-Em caso de dúvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
 _______________________________________________________________________________________________________________________________________________________________________
 ## **14. Casas Similares**
 
@@ -311,8 +309,6 @@ Portanto, o modelo deve ser utilizado como um complemento à expertise de profis
 **Conclusão**
 
 Este projeto demonstrou que modelos de aprendizado de máquina, como a regressão linear, podem fornecer insights relevantes e apoiar decisões estratégicas em um contexto econômico complexo. No entanto, o uso dessas ferramentas deve ser realizado de forma responsável, com a compreensão de suas limitações e complementaridade aos esforços humanos.
-
-Em caso de dúvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
 _______________________________________________________________________________________________________________________________________________________________________
 
 
