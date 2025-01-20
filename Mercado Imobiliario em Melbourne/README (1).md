@@ -59,5 +59,11 @@ Como este projeto visa ser apresentado no Brasil, decidi por traduzir o nome das
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
+## **5. Limpeza dos Dados**
+
+**5.1 Remoção de variáveis**
+
+<img src="Imagens2/remocaovar.png" alt="Tabelas" width="500" height="200"/>
+
 
 
