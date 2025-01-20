@@ -130,6 +130,11 @@ Embora esses valores extremos possam ser reais, como o preço de uma casa perten
 _____________________________________________________________________________________________________________________________________________________________________________
 
 
+## **9. Correlações **
+
+A matriz de correlação é extremamente útil em um projeto de regressão linear. Esta visualização ajuda a identificar relações lineares, selecionar variáveis relevantes, idendtificar multicolinearidade, explorar padrões de dados,evitar overfitting, etc.
+
+<img src="Imagens2/matriz.png" alt="Tabelas" width="600" height="440"/>
 
 
 
