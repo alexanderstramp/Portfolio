@@ -140,7 +140,7 @@ Ao analisar a matriz de correlação percebemos os seguintes pontos:
 
 * As variáveis que apresentam forte correlação: Comodos e Area construida ; Quartos e Banheiros.
 
-**Estes insights são vitais para a construção dos modelos de predição
+*Estes insights são vitais para a construção dos modelos de predição
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **9. Preparação dos dados para modelagem**
