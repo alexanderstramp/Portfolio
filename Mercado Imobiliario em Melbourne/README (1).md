@@ -84,8 +84,7 @@ Após a remoção e tratamento dos valores faltantes, a base de dados contém 27
 <img src="Imagens2/limpa.png" alt="Tabelas" width="250" height="500"/>
 
 
-
-Em caso de dúvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
+Notebook com o código python está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **6. informações Estatísticas dos Dados**
@@ -123,6 +122,7 @@ Embora esses valores extremos possam ser reais, como o preço de uma casa perten
 <img src="Imagens2/preco2.png" alt="Tabelas" width="400" height="440"/>
 
 
+Notebook com o código python está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
 _____________________________________________________________________________________________________________________________________________________________________________
 
 
@@ -155,7 +155,7 @@ ________________________________________________________________________________
 <img src="Imagens2/categorica.png" alt="Tabelas" width="1000" height="130"/>
 
 
-Em caso de dúvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
+Notebook com o código python está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **10. Modelos de Regressao Linear**
@@ -200,7 +200,7 @@ Abaixo, vemos que os valores preditos pelo modelo2 estão muito próximos aos va
 <img src="Imagens2/predito2.png" alt="Tabelas" width="420" height="460"/>
 
 
-Em caso de dúvidas, o notebook do projeto, realizado no Google Colab, está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
+Notebook com o código python está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **11. Comparando o RMSE dos dois modelos**
@@ -260,8 +260,8 @@ Observa-se que, apesar das similaridades nos atributos avaliados, os valores de 
 
 <img src="Imagens2/similares.png" alt="Tabelas" width="600" height="360"/>
 
+Notebook com o código python está disponível [aqui](https://colab.research.google.com/drive/1h7UYnNIfKYqA4vdiY907kUGeXi17QQ-n?usp=sharing)
 _______________________________________________________________________________________________________________________________________________________________________
-
 
 ## **15. Conclusão**
 
