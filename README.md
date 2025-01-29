@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 **Abaixo, apresento uma visão geral dos projetos incluídos neste portfólio**
 
-## **1. Olist e-commerce**
+## **1. Olist e-commerce - Análise de Vendas**
 Este projeto foca na análise detalhada de um banco de dados de vendas de um e-commerce. O objetivo foi extrair insights significativos para entender o comportamento de compra dos clientes, identificar tendências de vendas e avaliar o desempenho logístico.
 As principais etapas deste projeto incluem:
 
@@ -21,7 +21,7 @@ As principais etapas deste projeto incluem:
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
-## **2. Previsão de Preços de Casas com Regressão Linear**
+## **2. Mercado Imob. - Predição de Preços de imóveis**
 Neste projeto, utilizei técnicas de regressão linear para desenvolver um modelo preditivo capaz de estimar o preço de casas com base em características como área construída, localização e outros atributos.
 As etapas principais deste projeto incluem:
 
