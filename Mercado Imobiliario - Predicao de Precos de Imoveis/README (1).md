@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 **Autor:** Tiago dos Santos Arruda
 
-**Data da Criação:** 20/01/2025
+**Data da Criação:** 31/12/2024
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **1. Introdução**
@@ -128,7 +128,7 @@ ________________________________________________________________________________
 
 ## **8. Correlações**
 
-A matriz de correlação é extremamente útil em um projeto de regressão linear. Esta visualização ajuda a identificar relações lineares, selecionar variáveis relevantes, idendtificar multicolinearidade, explorar padrões de dados,evitar overfitting, etc.
+A matriz de correlação é extremamente útil em um projeto de regressão linear. Esta visualização ajuda a identificar relações lineares, selecionar variáveis relevantes, idendtificar multicolinearidade, explorar padrões de dados, evitar overfitting, etc.
 
 <img src="Imagens2/matriz.png" alt="Tabelas" width="600" height="440"/>
 
