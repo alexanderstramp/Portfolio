@@ -23,17 +23,21 @@ ________________________________________________________________________________
 
 ## **Conjunto de Dados**
 
+<img src="Imagens2/base.png" alt="Tabelas" width="900" height="300"/>
+
+
+
 Os dados utilizados para essa análise contêm informações sobre:
 
-- **ID do Cliente**
-- **Nome do Cliente**
-- **Data da Inscrição**
-- **Data do Cancelamento**
-- **Plano**
-- **Valor**
-- **Grupo Cohort**
-- **Ano**
-- **Meses Ativos**
+- **ID do Cliente:** Identificador único do cliente na base de dados.
+- **Nome do Cliente:** Nome do assinante do serviço.
+- **Data da Inscrição:** Data em que o cliente iniciou a assinatura.
+- **Data do Cancelamento:** Data em que o cliente cancelou a assinatura (se aplicável).
+- **Plano:** Nome do plano de assinatura escolhido pelo cliente.
+- **Valor:** Preço do plano contratado.
+- **Grupo Cohort:** Mês e ano da primeira inscrição, agrupando clientes que iniciaram no mesmo período.
+- **Ano:** Ano correspondente à análise da retenção.
+- **Meses Ativos:** Número de meses em que o cliente permaneceu com a assinatura ativa.
 ___________________________________________________________________________________________________________________________________________________________________________
 ## 🛠 Metodologia
 1. **Definição dos Cohorts:** Agrupamento de clientes com base na data da primeira compra.
