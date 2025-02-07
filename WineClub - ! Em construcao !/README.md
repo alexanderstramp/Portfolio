@@ -3,35 +3,38 @@
 
 
 # **Análise da Taxa de Retenção de Clientes**
-
-## **Análise de Cohort**
 _____________________________________________________________________________________________________________________________________________________________________________
-
 **Autor:** Tiago dos Santos Arruda
 
 **Data da Criação:** 07/02/2025
 _____________________________________________________________________________________________________________________________________________________________________________
-
 ## **1. Sobre a empresa**
 
+WineClub é uma plataforma especializada na comercialização de vinhos online, oferecendo uma experiência premium para apreciadores da bebida. Por meio de diferentes modalidades de assinatura, os clientes recebem mensalmente uma seleção exclusiva de rótulos premiados, importados e raros, acompanhados de itens complementares que enriquecem a experiência de degustação. Além disso, a empresa proporciona acesso a eventos exclusivos do setor, fortalecendo o vínculo entre os assinantes e o universo dos vinhos.
+___________________________________________________________________________________________________________________________________________________________________________
+## **Análise de Cohort**
 
+Para este estudo, foi adotada a análise de cohort para avaliar a taxa de retenção de clientes ao longo do tempo. A análise de cohort consiste em segmentar os clientes com base no período de sua primeira compra, permitindo identificar padrões de comportamento e lealdade. A retenção será calculada mensalmente, medindo a permanência dos clientes ativos em relação ao grupo inicial. Essa abordagem fornecerá insights estratégicos sobre engajamento, recorrência de compras e oportunidades de melhoria no modelo de aquisição e fidelização.
+___________________________________________________________________________________________________________________________________________________________________________
+## **Objetivo**
 
-# Análise de Cohort
+O objetivo desta análise é identificar tendências no comportamento dos clientes, avaliar a retenção ao longo do tempo e gerar insights para otimizar estratégias de marketing e vendas. Além disso, busca-se observar o impacto das promoções mensais elaboradas pela empresa, analisando seu sucesso ao longo do tempo e sua influência na fidelização e recorrência de compras.
+___________________________________________________________________________________________________________________________________________________________________________
 
-## 📌 Introdução
-A **Análise de Cohort** é uma abordagem utilizada para entender o comportamento de grupos de clientes ao longo do tempo. Esses grupos, chamados de **cohorts**, são segmentados com base em características comuns, como a data da primeira compra, e analisados para identificar padrões de retenção e comportamento de consumo.
+## **Conjunto de Dados**
 
-## 🎯 Objetivo
-O objetivo desta análise é identificar tendências no comportamento dos clientes, avaliar a retenção ao longo do tempo e gerar insights para otimizar estratégias de marketing e vendas.
-
-## 📊 Conjunto de Dados
 Os dados utilizados para essa análise contêm informações sobre:
-- **ID do Cliente**
-- **Data da Primeira Compra**
-- **Valor das Compras**
-- **Frequência de Compras**
-- **Tempo de Retenção**
 
+- **ID do Cliente**
+- **Nome do Cliente**
+- **Data da Inscrição**
+- **Data do Cancelamento**
+- **Plano**
+- **Valor**
+- **Grupo Cohort**
+- **Ano**
+- **Meses Ativos**
+___________________________________________________________________________________________________________________________________________________________________________
 ## 🛠 Metodologia
 1. **Definição dos Cohorts:** Agrupamento de clientes com base na data da primeira compra.
 2. **Cálculo da Retenção:** Percentual de clientes que continuam comprando ao longo dos meses seguintes.
