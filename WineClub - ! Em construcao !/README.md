@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 ## **Conjunto de Dados**
 
-<img src="Imagens2/base.png" alt="Tabelas" width="800" height="400"/>
+<img src="Imagens2/base.png" alt="Tabelas" width="800" height="300"/>
 
 
 
