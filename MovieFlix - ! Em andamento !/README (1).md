@@ -1,3 +1,10 @@
+
+<img src="Imagens2/logo.png" alt="Tabelas" width="400"/>
+
+
+
+
+
 # Análise de Cohort
 
 ## 📌 Introdução
