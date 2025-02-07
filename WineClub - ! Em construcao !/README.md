@@ -37,7 +37,7 @@ Os dados contêm informações sobre:
 - **Plano:** nome do plano de assinatura escolhido pelo cliente.
 - **Valor:** preço do plano contratado.
 
-### **As três últimas colunas ta base foram geradas para a análise de cohort**
+As três últimas colunas da base foram geradas para a análise de cohort
 
 - **Grupo Cohort:** refere-se ao mês e ano da inscrição, permitindo agrupar os clientes com base no período de adesão.
 - **Ano:** representa o ano de análise da retenção, utilizado para segmentar os dados por períodos anuais.
