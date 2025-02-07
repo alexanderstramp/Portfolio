@@ -28,7 +28,7 @@ A base de dados contém registros de 1.000 clientes. Para a análise, foram sele
 <img src="Imagens2/base.png" alt="Tabelas" width="1100" height="300"/>
 
 
-Os dados utilizados para essa análise contêm informações sobre:
+Os dados contêm informações sobre:
 
 - **ID do Cliente:** identificador único do cliente na base de dados.
 - **Nome do Cliente:** nome do assinante do serviço.
@@ -36,9 +36,12 @@ Os dados utilizados para essa análise contêm informações sobre:
 - **Data do Cancelamento:** data em que o cliente cancelou a assinatura (se aplicável).
 - **Plano:** nome do plano de assinatura escolhido pelo cliente.
 - **Valor:** preço do plano contratado.
-- **Grupo Cohort:** mês e ano da primeira inscrição, agrupando clientes que iniciaram no mesmo período.
-- **Ano:** ano correspondente à análise da retenção.
-- **Meses Ativos:** número de meses em que o cliente permaneceu com a assinatura ativa.
+
+### **As três últimas colunas ta base foram geradas para a análise de cohort**
+
+- **Grupo Cohort:** refere-se ao mês e ano da inscrição, permitindo agrupar os clientes com base no período de adesão.
+- **Ano:** representa o ano de análise da retenção, utilizado para segmentar os dados por períodos anuais.
+- **Meses Ativos:** indica a quantidade de meses durante os quais o cliente manteve a assinatura ativa, sendo uma métrica crucial para calcular a retenção ao longo do tempo.
 ___________________________________________________________________________________________________________________________________________________________________________
 ## 🛠 Metodologia
 1. **Definição dos Cohorts:** Agrupamento de clientes com base na data da primeira compra.
