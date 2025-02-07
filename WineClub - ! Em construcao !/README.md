@@ -23,21 +23,22 @@ ________________________________________________________________________________
 
 ## **Conjunto de Dados**
 
-<img src="Imagens2/base.png" alt="Tabelas" width="1000" height="300"/>
+A base de dados contém registros de 1.000 clientes. Para a análise, foram selecionadas as assinaturas com datas de inscrição entre junho de 2017 e julho de 2019. O acompanhamento foi realizado por um período de 24 meses para avaliar a retenção e o comportamento dos clientes ao longo do tempo.
 
+<img src="Imagens2/base.png" alt="Tabelas" width="1000" height="300"/>
 
 
 Os dados utilizados para essa análise contêm informações sobre:
 
-- **ID do Cliente:** Identificador único do cliente na base de dados.
-- **Nome do Cliente:** Nome do assinante do serviço.
-- **Data da Inscrição:** Data em que o cliente iniciou a assinatura.
-- **Data do Cancelamento:** Data em que o cliente cancelou a assinatura (se aplicável).
-- **Plano:** Nome do plano de assinatura escolhido pelo cliente.
-- **Valor:** Preço do plano contratado.
-- **Grupo Cohort:** Mês e ano da primeira inscrição, agrupando clientes que iniciaram no mesmo período.
-- **Ano:** Ano correspondente à análise da retenção.
-- **Meses Ativos:** Número de meses em que o cliente permaneceu com a assinatura ativa.
+- **ID do Cliente:** identificador único do cliente na base de dados.
+- **Nome do Cliente:** nome do assinante do serviço.
+- **Data da Inscrição:** data em que o cliente iniciou a assinatura.
+- **Data do Cancelamento:** data em que o cliente cancelou a assinatura (se aplicável).
+- **Plano:** nome do plano de assinatura escolhido pelo cliente.
+- **Valor:** preço do plano contratado.
+- **Grupo Cohort:** mês e ano da primeira inscrição, agrupando clientes que iniciaram no mesmo período.
+- **Ano:** ano correspondente à análise da retenção.
+- **Meses Ativos:** número de meses em que o cliente permaneceu com a assinatura ativa.
 ___________________________________________________________________________________________________________________________________________________________________________
 ## 🛠 Metodologia
 1. **Definição dos Cohorts:** Agrupamento de clientes com base na data da primeira compra.
