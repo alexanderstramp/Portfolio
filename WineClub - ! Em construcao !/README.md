@@ -21,6 +21,13 @@ ________________________________________________________________________________
 O objetivo desta análise é identificar tendências no comportamento dos clientes, avaliar a retenção ao longo do tempo e gerar insights para otimizar estratégias de marketing e vendas. Além disso, busca-se observar o impacto das promoções mensais elaboradas pela empresa, analisando seu sucesso ao longo do tempo e sua influência na fidelização e recorrência de compras.
 ___________________________________________________________________________________________________________________________________________________________________________
 
+## **3. Fontes e Ferramentas**
+
+Todo o projeto, incluido limpeza, exploração, Tabelas Dinâmicas e construção de visualizações foi realido no Excel.
+
+A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
+___________________________________________________________________________________________________________________________________________________________________________
+
 ## **Conjunto de Dados**
 
 A base de dados contém registros de 1.000 clientes. Para a análise, foram selecionadas as assinaturas com datas de inscrição entre junho de 2017 e julho de 2019. O acompanhamento foi realizado por um período de 24 meses para avaliar a retenção e o comportamento dos clientes ao longo do tempo.
