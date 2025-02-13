@@ -36,10 +36,15 @@ A base de dados contém registros de 1.000 clientes. Para a análise, foram sele
 Os dados contêm informações sobre:
 
 **ID do Cliente:** identificador único do cliente na base de dados.
+
 **Nome do Cliente:** nome do assinante do serviço.
+
 **Data da Inscrição:** data em que o cliente iniciou a assinatura.
+
 **Data do Cancelamento:** data em que o cliente cancelou a assinatura (se aplicável).
+
 **Plano:** nome do plano de assinatura escolhido pelo cliente.
+
 **Valor:** preço do plano contratado.
 
 As duas últimas colunas da base foram geradas para a análise de cohort
