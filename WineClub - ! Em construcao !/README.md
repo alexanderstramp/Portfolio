@@ -86,12 +86,12 @@ ________________________________________________________________________________
 
 
 
-## 🔍 Principais Descobertas
+## Principais Descobertas
 - [ ] **Quais cohorts têm melhor retenção?**
 - [ ] **Há algum padrão sazonal na retenção?**
 - [ ] **Quais estratégias podem ser implementadas para melhorar a retenção?**
 
-## 🚀 Conclusão e Ações
+## Conclusão e Ações
 Com base na análise, podemos propor estratégias como:
 - Personalização de ofertas para cohorts com baixa retenção.
 - Investimento em campanhas de reengajamento.
