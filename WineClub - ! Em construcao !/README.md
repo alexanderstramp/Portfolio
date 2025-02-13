@@ -1,5 +1,5 @@
 
-<img src="Imagens2/logo.png" alt="Tabelas" width="600"/>
+<img src="Imagens2/logo.png" alt="Tabelas" width="550"/>
 
 
 # **Análise da Taxa de Retenção de Clientes**
