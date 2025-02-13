@@ -61,12 +61,12 @@ ________________________________________________________________________________
 
 **Tabela de Cohort:** Representação matricial da retenção de clientes por período.
 
-<img src="Imagens2/tabela.png" alt="Tabelas" width="900" height="300"/>
+<img src="Imagens2/tabela.png" alt="Tabelas" width="1100" height="500"/>
 
 
 **Gráfico de Retenção:** Exibe a taxa de retenção por cohort ao longo do tempo.
 
-<img src="Imagens2/media.png" alt="Tabelas" width="900" height="300"/>
+<img src="Imagens2/media.png" alt="Tabelas" width="1100" height="550"/>
 
 
 
