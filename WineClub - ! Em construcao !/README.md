@@ -64,14 +64,15 @@ ________________________________________________________________________________
 <img src="Imagens2/tabela.png" alt="Tabelas" width="1100" height="500"/>
 
 
+A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
+
 **Gráfico de Retenção:** Exibe a taxa de retenção por cohort ao longo do tempo.
 
 <img src="Imagens2/media.png" alt="Tabelas" width="1100" height="550"/>
 
 
-
-
-
+A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
+_________________________________________________________________________________________________________________________________________________________________________
 
 
 
