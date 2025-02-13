@@ -45,6 +45,7 @@ Os dados contêm informações sobre:
 As duas últimas colunas da base foram geradas para a análise de cohort
 
 **Grupo Cohort:** refere-se ao mês e ano da inscrição, permitindo agrupar os clientes com base no período de adesão.
+
 **Meses Ativos:** indica a quantidade de meses durante os quais o cliente manteve a assinatura ativa, sendo uma métrica crucial para calcular a retenção ao longo do tempo.
 ___________________________________________________________________________________________________________________________________________________________________________
 ## **Metodologia**
