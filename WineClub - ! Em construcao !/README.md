@@ -22,7 +22,7 @@ O objetivo desta análise é identificar tendências no comportamento dos client
 ___________________________________________________________________________________________________________________________________________________________________________
 ## **4. Fontes e Ferramentas**
 
-**4.1** Todo o projeto, incluido limpeza, exploração, tabelas dinâmicas e visualizações, foi realido no Excel.
+**4.1** Todo o projeto, incluido limpeza, exploração, tabelas dinâmicas e visualizações, foi realizado no Excel.
 
 **4.2** A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
 ___________________________________________________________________________________________________________________________________________________________________________
