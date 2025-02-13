@@ -22,9 +22,9 @@ O objetivo desta análise é identificar tendências no comportamento dos client
 ___________________________________________________________________________________________________________________________________________________________________________
 ## **4. Fontes e Ferramentas**
 
-**4.1** Todo o projeto, incluido limpeza, exploração, tabelas dinâmicas e visualizações, foi realido no Excel.
+### **4.1** Todo o projeto, incluido limpeza, exploração, tabelas dinâmicas e visualizações, foi realido no Excel.
 
-**4.2** A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
+### **4.2** A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
 ___________________________________________________________________________________________________________________________________________________________________________
 ## **5. Conjunto de Dados**
 
@@ -35,7 +35,7 @@ A base de dados contém registros de 1.000 clientes. Para a análise, foram sele
 
 A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
 
-**5.1 Os dados contêm informações sobre:**
+### **5.1 Os dados contêm informações sobre:**
 
 **ID do Cliente:** identificador único do cliente na base de dados.
 
@@ -49,7 +49,7 @@ A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv
 
 **Valor:** preço do plano contratado.
 
-**5.2 As duas últimas colunas da base foram geradas para a análise de cohort**
+### **5.2 As duas últimas colunas da base foram geradas para a análise de cohort**
 
 **Grupo Cohort:** refere-se ao mês e ano da inscrição, permitindo agrupar os clientes com base no período de adesão.
 
@@ -57,24 +57,32 @@ A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv
 ___________________________________________________________________________________________________________________________________________________________________________
 ## **6. Metodologia**
 
-**6.1 Definição dos Cohorts:** os clientes foram agrupados com base na data da primeira compra para análise de retenção. Além disso, foi criada uma coluna que calcula o tempo de permanência de cada cliente, expressa em meses desde a primeira compra até o último período analisado.
+### **6.1 Definição dos Cohorts:** 
 
-**6.2 Cálculo da Retenção:** Cálculo da Retenção: A retenção foi calculada como o percentual de clientes de cada cohort que realizaram novas compras em períodos subsequentes. Para isso, foi analisado o comportamento de recompra ao longo do tempo, comparando o número de clientes ativos em cada mês com o total inicial do cohort. Esse cálculo permite identificar padrões de fidelização e a eficácia de estratégias de retenção.
+Os clientes foram agrupados com base na data da primeira compra para análise de retenção. Além disso, foi criada uma coluna que calcula o tempo de permanência de cada cliente, expressa em meses desde a primeira compra até o último período analisado.
 
-**6.3 Análise Gráfica:** Foram criadas tabelas de cohort e visualizações para acompanhar a retenção dos clientes ao longo do tempo. A matriz de cohort mostra a taxa de permanência de cada grupo em diferentes períodos, enquanto gráficos de linha facilitam a identificação de padrões. Essas análises ajudam a avaliar a eficácia das estratégias de retenção e a identificar períodos críticos de queda no engajamento.
+### **6.2 Cálculo da Retenção:** 
 
-**6.4 Insights e Recomendações:** A análise dos cohort permitiu identificar padrões de retenção e momentos críticos de churn. Com base nos dados, foram feitas recomendações estratégicas, como otimização de campanhas de reengajamento, incentivos para clientes em risco de abandono e aprimoramento da experiência pós-compra. Essas sugestões visam aumentar a fidelização e maximizar o valor do ciclo de vida do cliente.
+Cálculo da Retenção: A retenção foi calculada como o percentual de clientes de cada cohort que realizaram novas compras em períodos subsequentes. Para isso, foi analisado o comportamento de recompra ao longo do tempo, comparando o número de clientes ativos em cada mês com o total inicial do cohort. Esse cálculo permite identificar padrões de fidelização e a eficácia de estratégias de retenção.
+
+### **6.3 Análise Gráfica:** 
+
+Foram criadas tabelas de cohort e visualizações para acompanhar a retenção dos clientes ao longo do tempo. A matriz de cohort mostra a taxa de permanência de cada grupo em diferentes períodos, enquanto gráficos de linha facilitam a identificação de padrões. Essas análises ajudam a avaliar a eficácia das estratégias de retenção e a identificar períodos críticos de queda no engajamento.
+
+### **6.4 Insights e Recomendações:** 
+
+A análise dos cohort permitiu identificar padrões de retenção e momentos críticos de churn. Com base nos dados, foram feitas recomendações estratégicas, como otimização de campanhas de reengajamento, incentivos para clientes em risco de abandono e aprimoramento da experiência pós-compra. Essas sugestões visam aumentar a fidelização e maximizar o valor do ciclo de vida do cliente.
 ___________________________________________________________________________________________________________________________________________________________________________
 ## **7. Visualização dos Dados**
 
-**7.1 Tabela de Cohort:** Representação matricial da retenção de clientes por período.
+### **7.1 Tabela de Cohort:** Representação matricial da retenção de clientes por período.
 
 <img src="Imagens2/tabela.png" alt="Tabelas" width="1100" height="500"/>
 
 
 A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
 
-**7.2 Gráfico de Retenção:** Exibe a taxa de retenção por cohort ao longo do tempo.
+### **7.2 Gráfico de Retenção:** Exibe a taxa de retenção por cohort ao longo do tempo.
 
 <img src="Imagens2/media.png" alt="Tabelas" width="1100" height="550"/>
 
