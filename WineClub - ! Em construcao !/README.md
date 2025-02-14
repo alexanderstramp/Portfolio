@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 A base de dados contém registros de 1.000 clientes. Para a análise, foram selecionadas as assinaturas com datas de inscrição entre junho de 2017 e julho de 2019. O acompanhamento foi realizado por um período de 24 meses para avaliar a retenção e o comportamento dos clientes ao longo do tempo.
 
-<img src="Imagens2/base.png" alt="Tabelas" width="1100" height="300"/>
+<img src="Imagens2/base.png" alt="Tabelas" width="800" height="250"/>
 
 
 A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
@@ -69,17 +69,25 @@ ________________________________________________________________________________
 
 **7.1 Tabela de Cohort:** Representação matricial da retenção de clientes por período.
 
-<img src="Imagens2/tabela.png" alt="Tabelas" width="1100" height="500"/>
+<img src="Imagens2/tabela.png" alt="Tabelas" width="800" height="350"/>
 
 
-A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
+A fonte, para visualização completa da tabela, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
 
-**7.2 Gráfico de Retenção:** Exibe a taxa de retenção por cohort ao longo do tempo.
+**7.2 Gráfico de Retenção:** Exibe a média da taxa de retenção por cohort ao longo do tempo.
 
-<img src="Imagens2/media.png" alt="Tabelas" width="1100" height="550"/>
+<img src="Imagens2/media.png" alt="Tabelas" width="800" height="400"/>
 
 
-A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
+A fonte, para visualização completa da tabela, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
+
+**7.3 Comparando períodos do ano:** No exemplo abaixo, esta sendo comparado o pior e o melhor mês da base analisada.
+
+<img src="Imagens2/comparando.png" alt="Tabelas" width="800" height="250"/>
+
+
+
+A fonte, para visualização completa da tabela, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
 _________________________________________________________________________________________________________________________________________________________________________
 ## **8. Resumo Executivo**
 
