@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 A base de dados contém registros de 1.000 clientes. Para a análise, foram selecionadas as assinaturas com datas de inscrição entre junho de 2017 e julho de 2019. O acompanhamento foi realizado por um período de 24 meses para avaliar a retenção e o comportamento dos clientes ao longo do tempo.
 
-<img src="Imagens2/base.png" alt="Tabelas" width="1100" height="300"/>
+<img src="Imagens2/base.png" alt="Tabelas" width="800" height="200"/>
 
 
 A fonte, para visualizaçãodos dos dados, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
