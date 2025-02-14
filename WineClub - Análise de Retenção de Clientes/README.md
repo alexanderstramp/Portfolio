@@ -120,7 +120,7 @@ ________________________________________________________________________________
 
 **Abaixo, fatores de sucesso identificados que devem ser analisados e modelados para replicação em outros períodos**
 
-**5.** O mês de junho de 2019 apresenta a melhor taxa de retenção do período analisado, mantendo uma trajetória consistente ao longo do tempo. No vigésimo quarto mês, 35% dos clientes ainda permanecem ativos. Esse desempenho pode ser resultado de estratégias eficazes de fidelização e engajamento, que contribuíram para a manutenção de uma base de clientes sólida ao longo do período.
+**5.** O mês de junho de 2019 apresenta a melhor taxa de retenção do período analisado, mantendo uma trajetória consistente ao longo do tempo. No vigésimo quarto mês, 35% dos clientes ainda permanecem ativos. Esse desempenho deixa claro que um plano de ação foi bem executado, para nao se repetir o que aconteceu em junho de 2017 e 2018. Este plano de ação foi eficazes na fidelização e engajamento, que contribuíram para a manutenção de uma base de clientes sólida ao longo do período.
 
 **6.** Os cohorts de dezembro de 2018, janeiro e fevereiro de 2019 apresentaram uma taxa de retenção elevada ao longo de 14 meses, destacando-se entre os períodos analisados. Recomenda-se uma análise aprofundada, envolvendo todas as áreas estratégicas, para correlacionar os indicadores de negócio e identificar os fatores que contribuíram para esse desempenho. O uso de modelagem estatística e análise preditiva pode auxiliar na replicação desses padrões em cohorts futuros.
 _________________________________________________________________________________________________________________________________________________________________________
