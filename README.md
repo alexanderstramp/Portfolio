@@ -36,7 +36,7 @@ Neste projeto, utilizei técnicas de regressão linear para desenvolver um model
 ______________________________________________________________________________________________________________________________________________________________________________
 ## **3. WineClub - Análise de Retenção de Clientes**
 
-Este projeto tem como objetivo analisar a retenção de clientes, de uma plataforma de assinatura de vinhos, ao longo do tempo. Para este estudo, foi adotada a análise de cohort. A análise de cohort segmenta clientes com base na data da primeira compra, permitindo avaliar padrões de retenção, churn e lealdade ao longo do tempo.
+Este projeto tem como objetivo analisar a retenção de clientes de uma plataforma de assinatura de vinhos, ao longo do tempo. Para este estudo, foi adotada a análise de cohort. A análise de cohort segmenta clientes com base na data da primeira compra, permitindo avaliar padrões de retenção, churn e lealdade ao longo do tempo.
 
 **As etapas do projeto:** 
 
