@@ -88,25 +88,8 @@ A fonte, para visualização completa da tabela, está disponível [aqui](https:
 <img src="Imagens2/comparando.png" alt="Tabelas" width="800" height="250"/>
 
 
-
 A fonte, para visualização completa da tabela, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
 _________________________________________________________________________________________________________________________________________________________________________
 ## **8. Resumo Executivo**
 
 
-
-
-
-
-
-## Principais Descobertas
-- [ ] **Quais cohorts têm melhor retenção?**
-- [ ] **Há algum padrão sazonal na retenção?**
-- [ ] **Quais estratégias podem ser implementadas para melhorar a retenção?**
-
-## Conclusão e Ações
-Com base na análise, podemos propor estratégias como:
-- Personalização de ofertas para cohorts com baixa retenção.
-- Investimento em campanhas de reengajamento.
-- Melhor segmentação de marketing baseada no comportamento dos clientes.
-- 
