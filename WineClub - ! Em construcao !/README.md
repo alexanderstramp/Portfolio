@@ -97,10 +97,28 @@ A análise de retenção de clientes revela padrões e pontos críticos para a p
 Inicialmente, a retenção é alta, com 95% dos clientes mantendo a adesão até o terceiro mês. No entanto, a partir do sexto mês, a retenção começa a cair, atingindo 67% no 12º mês. Essa redução pode ser causada pela saturação do serviço e mudanças nas necessidades dos clientes. Entre os meses 12º e 18º, a queda na retenção é mais acentuada, indo de 67% para 46%. Isso sugere desgaste da oferta inicial e falta de incentivos contínuos. No 24º mês, a taxa média de retenção é de 25%, indicando uma fidelização mais frágil ao longo do tempo. Em contraste, junho de 2019 apresentou a melhor taxa de retenção, com 35% dos clientes ainda ativos no 24º mês, indicando o sucesso de estratégias de fidelização. O período de junho de 2018 teve a pior performance, com queda acentuada da retenção para 56% no 3º mês e 16% no 7º mês, o que pode refletir mudanças no preço, qualidade do serviço ou marketing. Comparando 2017 com 2019, observa-se que os clientes de 2017 mostraram uma retenção mais estável. Isso pode indicar mudanças na empresa ou no perfil dos consumidores. Os meses de dezembro de 2018, janeiro e fevereiro de 2019 apresentaram boa fidelização ao longo de 14 meses, embora fevereiro de 2019 tenha registrado um desempenho abaixo da média na aquisição de novos clientes, sugerindo ajustes necessários nas estratégias de marketing.
 
 Vale ressaltar que, além de fatores internos como mudanças na oferta ou estratégias de marketing, fatores externos também devem ser considerados. A situação econômica, a entrada de novos concorrentes, mudanças no comportamento do consumidor ou alterações na legislação e regulamentação podem impactar diretamente o comportamento de retenção dos clientes. Uma análise de variáveis externas ajuda a entender melhor as flutuações na fidelidade dos clientes e a adaptar as estratégias de forma eficaz.
-
-Em seguida, será apresentada uma recomendação de plano de ação para os pontos que merecem atenção.
 _________________________________________________________________________________________________________________________________________________________________________
+## **9. Detalhamento da Análise:** 
 
+**Abaixo, uma exploração minuciosa dos pontos observados, seguida de recomendações de plano de ações para cada aspecto abordado.**
+
+**1.** As condições oferecidas para novos clientes aparentemente são encerradas no terceiro mês, período em que observamos um leve aumento na taxa de churn(desistências). No entanto, a retenção média ainda se mantém elevada, em torno de 95%, indicando uma boa aderência inicial ao produto/serviço.
+
+**1.1 Recomendação:** Recomenda-se uma análise aprofundada das condições oferecidas nos três primeiros meses, utilizando testes A/B para avaliar o impacto da extensão dessas vantagens na retenção de clientes a longo prazo. Além disso, a segmentação dos usuários por comportamento de consumo e perfil demográfico pode fornecer insights sobre quais grupos se beneficiam mais dessas condições. A modelagem preditiva também pode ser utilizada para estimar a probabilidade de churn caso os benefícios sejam reduzidos ou estendidos, permitindo uma tomada de decisão baseada em dados.
+
+**2.** A partir do sexto mês, a retenção começa a diminuir de forma mais acentuada. O maior declínio ocorre entre o 12º e o 18º mês, quando a taxa de retenção reduz de 67% para 46%, representando uma queda de 21 pontos percentuais, o que equivale a uma redução de 31% em relação ao início do período citado. 
+
+**2.1 Recomendação:** Para mitigar a queda na retenção observada entre o 12º e o 18º mês, recomenda-se uma análise aprofundada do valor percebido pelos clientes ao longo do tempo. Isso pode ser feito por meio de pesquisas de satisfação e análise de sentimentos em interações com a plataforma, além do monitoramento contínuo do Net Promoter Score (NPS) para identificar pontos de insatisfação. Estratégias de reativação também são relevantes, como incentivos para renovação, descontos progressivos e benefícios exclusivos para assinantes de longo prazo, também podem contribuir para a retenção. Por fim, recomenda-se a realização de testes A/B para avaliar a eficácia de diferentes abordagens e ajustar continuamente as estratégias com base nos dados coletados.
+
+**3.** No 24º mês, o último período avaliado, a média de clientes iniciais ainda ativos é de 25%. Essa queda na retenção ao longo do tempo pode indicar que os clientes adquiridos no início do período apresentaram um comportamento de fidelização mais frágil. 
+
+**3.1 Recomendação:** Uma retenção média de clientes de 25%, é considerado um valor baixo quando comparado a outros setores, onde a retenção pode chegar a 55% ou mais. Para melhorar esse índice, recomenda-se investir em estratégias de fidelização, como programas de recompensa, ofertas personalizadas e comunicação contínua. Além disso, aprimorar a experiência do cliente e coletar feedbacks para ajustes contínuos pode aumentar o engajamento e reduzir a taxa de churn.
+
+**4.** O período de junho de 2018 apresenta a pior performance na tabela, com uma queda acentuada na taxa de retenção. No terceiro mês, a retenção diminui para 56%, e no sétimo mês atinge 16%, valor que se mantém até o último mês
+
+**4.1 Recomendação:** Recomenda-se uma análise detalhada dos fatores que podem ter influenciado essa queda, como mudanças nos preços, na qualidade do serviço ou na estratégia de marketing. Isso pode ser feito por meio da correlação entre esses eventos e a retenção de clientes, além da análise de feedbacks e reclamações do período. Caso sejam identificadas mudanças negativas, estratégias de recuperação devem ser implementadas, como reajuste de preços, melhoria no atendimento e ofertas segmentadas para reconquistar clientes inativos.
+
+**Abaixo, fatores de sucesso identificados que devem ser analisados e modelados para replicação em outros períodos**
 
 
 
