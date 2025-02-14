@@ -72,6 +72,7 @@ ________________________________________________________________________________
 <img src="Imagens2/tabela.png" alt="Tabelas" width="800" height="350"/>
 
 
+**Obs:** algumas colunas foram ocultadas para uma melhor visualização da tabela. Na ferramenta excel basta desagrupar a tabela. 
 A fonte, para visualização completa da tabela, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
 
 **7.2 Gráfico de Retenção:** Exibe a média da taxa de retenção por cohort ao longo do tempo.
