@@ -94,15 +94,13 @@ ________________________________________________________________________________
 
 A análise de retenção de clientes revela padrões e pontos críticos para a plataforma de assinatura de vinhos.
 
-Inicialmente, a retenção é alta, com 95% dos clientes mantendo a adesão até o terceiro mês. No entanto, a partir do sexto mês, a retenção começa a cair, atingindo 67% no 12º mês. Essa redução pode ser causada pela saturação do serviço e mudanças nas necessidades dos clientes.
+Inicialmente, a retenção é alta, com 95% dos clientes mantendo a adesão até o terceiro mês. No entanto, a partir do sexto mês, a retenção começa a cair, atingindo 67% no 12º mês. Essa redução pode ser causada pela saturação do serviço e mudanças nas necessidades dos clientes. Entre os meses 12º e 18º, a queda na retenção é mais acentuada, indo de 67% para 46%. Isso sugere desgaste da oferta inicial e falta de incentivos contínuos. No 24º mês, a taxa média de retenção é de 25%, indicando uma fidelização mais frágil ao longo do tempo. Em contraste, junho de 2019 apresentou a melhor taxa de retenção, com 35% dos clientes ainda ativos no 24º mês, indicando o sucesso de estratégias de fidelização. O período de junho de 2018 teve a pior performance, com queda acentuada da retenção para 56% no 3º mês e 16% no 7º mês, o que pode refletir mudanças no preço, qualidade do serviço ou marketing. Comparando 2017 com 2019, observa-se que os clientes de 2017 mostraram uma retenção mais estável. Isso pode indicar mudanças na empresa ou no perfil dos consumidores. Os meses de dezembro de 2018, janeiro e fevereiro de 2019 apresentaram boa fidelização ao longo de 14 meses, embora fevereiro de 2019 tenha registrado um desempenho abaixo da média na aquisição de novos clientes, sugerindo ajustes necessários nas estratégias de marketing.
 
-Entre os meses 12º e 18º, a queda na retenção é mais acentuada, indo de 67% para 46%. Isso sugere desgaste da oferta inicial e falta de incentivos contínuos. No 24º mês, a taxa média de retenção é de 25%, indicando uma fidelização mais frágil ao longo do tempo. Em contraste, junho de 2019 apresentou a melhor taxa de retenção, com 35% dos clientes ainda ativos no 24º mês, indicando o sucesso de estratégias de fidelização.
+Vale ressaltar que, além de fatores internos como mudanças na oferta ou estratégias de marketing, fatores externos também devem ser considerados. A situação econômica, a entrada de novos concorrentes, mudanças no comportamento do consumidor ou alterações na legislação e regulamentação podem impactar diretamente o comportamento de retenção dos clientes. A análise de variáveis externas ajudará a entender melhor as flutuações na fidelidade dos clientes e a adaptar as estratégias de forma eficaz.
 
-O período de junho de 2018 teve a pior performance, com queda acentuada da retenção para 56% no 3º mês e 16% no 7º mês, o que pode refletir mudanças no preço, qualidade do serviço ou marketing.
+Em seguida, será apresentada uma recomendação de plano de ação para os pontos que merecem atenção.
+_________________________________________________________________________________________________________________________________________________________________________
 
-Comparando 2017 com 2019, observa-se que os clientes de 2017 mostraram uma retenção mais estável. Isso pode indicar mudanças na empresa ou no perfil dos consumidores.
 
-Por fim, os meses de dezembro de 2018, janeiro e fevereiro de 2019 apresentaram boa fidelização ao longo de 14 meses, embora fevereiro de 2019 tenha registrado um desempenho abaixo da média na aquisição de novos clientes, sugerindo ajustes necessários nas estratégias de marketing.
 
-Esses dados oferecem insights valiosos para aprimorar as estratégias de engajamento e fidelização de clientes.
 
