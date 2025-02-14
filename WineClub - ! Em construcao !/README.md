@@ -76,7 +76,7 @@ A fonte, para visualização completa da tabela, está disponível [aqui](https:
 
 **7.2 Gráfico de Retenção:** Exibe a média da taxa de retenção por cohort ao longo do tempo.
 
-<img src="Imagens2/media.png" alt="Tabelas" width="1100" height="550"/>
+<img src="Imagens2/media.png" alt="Tabelas" width="800" height="400"/>
 
 
 A fonte, para visualização completa da tabela, está disponível [aqui](https://1drv.ms/x/c/68363fd9bda23a4c/EZNmTfsCRzBKlg1qyV7DJH8BFlD_7d8h1j97nqxUXAfnjg?e=QbA0u5)
