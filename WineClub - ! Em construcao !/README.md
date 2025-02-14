@@ -83,7 +83,7 @@ A fonte, para visualização completa da tabela, está disponível [aqui](https:
 
 **7.3 Comparando períodos do ano** No exemplo abaixo, esta sendo comparado o pior e o melhor mês da base analisada.
 
-<img src="Imagens2/comparando.png" alt="Tabelas" width="1100" height="550"/>
+<img src="Imagens2/comparando.png" alt="Tabelas" width="1100" height="400"/>
 
 
 _________________________________________________________________________________________________________________________________________________________________________
