@@ -59,11 +59,11 @@ ________________________________________________________________________________
 
 **6.1 Definição dos Cohorts:** Os clientes foram agrupados com base na data da primeira compra para análise de retenção. Além disso, foi criada uma coluna que calcula o tempo de permanência de cada cliente, expressa em meses desde a primeira compra até o último período analisado.
 
-**6.2 Cálculo da Retenção:** A retenção foi calculada como o percentual de clientes de cada cohort que mantinham a assinatura ativada. Para isso, foi analisado o comportamento de recompra ao longo do tempo, comparando o número de clientes ativos em cada mês com o total inicial do cohort. Esse cálculo permite identificar padrões de fidelização e a eficácia de estratégias de retenção.
+**6.2 Cálculo da Retenção:** A retenção foi calculada com o percentual de clientes de cada cohort que mantinham a assinatura ativada. Para isso, foi analisado o comportamento de recompra ao longo do tempo, comparando o número de clientes ativos em cada mês com o total inicial do cohort. Esse cálculo permite identificar padrões de fidelização e a eficácia de estratégias de retenção.
 
-**6.3 Análise Gráfica:** Foram criadas tabelas de cohort e visualizações para acompanhar a retenção dos clientes ao longo do tempo. A matriz de cohort mostra a taxa de permanência de cada grupo em diferentes períodos, enquanto gráficos de linha facilitam a identificação de padrões. Essas análises ajudam a avaliar a eficácia das estratégias de retenção e a identificar períodos críticos de queda no engajamento.
+**6.3 Análise Gráfica:** Foram criadas tabelas de cohort e visualizações para acompanhar a retenção dos clientes ao longo do tempo. A matriz de cohort mostra a taxa de permanência de cada grupo em diferentes períodos, enquanto gráficos facilitam a identificação de padrões. Essas análises ajudam a avaliar a eficácia das estratégias de retenção e a identificar períodos críticos de queda no engajamento.
 
-**6.4 Insights e Recomendações:** A análise dos cohort permitiu identificar padrões de retenção e momentos críticos de churn. Com base nos dados, foram feitas recomendações estratégicas, como otimização de campanhas de reengajamento, incentivos para clientes em risco de abandono e aprimoramento da experiência pós-compra. Essas sugestões visam aumentar a fidelização e maximizar o valor do ciclo de vida do cliente.
+**6.4 Insights e Recomendações:** A análise dos cohort permitiu identificar padrões de retenção e momentos críticos de churn. Com base nos dados, foram feitas recomendações estratégicas. Essas sugestões visam aumentar a fidelização e maximizar o valor do ciclo de vida do cliente.
 ___________________________________________________________________________________________________________________________________________________________________________
 ## **7. Visualização dos Dados**
 
