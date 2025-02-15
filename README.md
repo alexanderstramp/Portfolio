@@ -19,7 +19,7 @@ Este projeto foca na análise detalhada de um banco de dados de vendas de um e-c
 
 **Ferramentas Utilizadas:** SQL e Power Bi
 ________________________________________________________________________________________________________________________________________________________________________
-## **2. Mercado Imob. - Predição de Preços de imóveis**
+## **2. Mercado Imobiliário - Predição de Preços de imóveis**
 Neste projeto, utilizei técnicas de regressão linear para desenvolver um modelo preditivo capaz de estimar o preço de casas com base em características como área construída, localização e outros atributos.
 
 **As etapas principais deste projeto incluem:**
