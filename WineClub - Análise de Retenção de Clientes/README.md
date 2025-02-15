@@ -102,7 +102,7 @@ ________________________________________________________________________________
 
 **Abaixo, uma exploração minuciosa dos pontos observados, seguida de recomendações de plano de ações para cada aspecto abordado.**
 
-**1.** As condições oferecidas para novos clientes aparentemente são encerradas no terceiro mês, período em que observamos um leve aumento na taxa de churn(desistências). No entanto, a retenção média ainda se mantém elevada, em torno de 95%, indicando uma boa aderência inicial ao produto/serviço.
+**1.** As condições oferecidas para novos clientes aparentemente são encerradas no terceiro mês, período em que observamos uma leve taxa de churn(desistências). No entanto, a retenção média ainda se mantém elevada, em torno de 95%, indicando uma boa aderência inicial ao produto/serviço. A partir desse período, muito comun em uma análise de cohort, temos uma queda na taxa de retenção. Isso fica claro na aba "Média de Retenção por mês" no arquivo excel. 
 
 **1.1 Recomendação:** Recomenda-se uma análise aprofundada das condições oferecidas nos três primeiros meses, utilizando testes A/B para avaliar o impacto da extensão dessas vantagens na retenção de clientes a longo prazo. Além disso, a segmentação dos usuários por comportamento de consumo e perfil demográfico pode fornecer insights sobre quais grupos se beneficiam mais dessas condições. A modelagem preditiva também pode ser utilizada para estimar a probabilidade de churn caso os benefícios sejam reduzidos ou estendidos, permitindo uma tomada de decisão baseada em dados.
 
