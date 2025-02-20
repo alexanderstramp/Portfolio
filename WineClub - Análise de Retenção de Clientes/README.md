@@ -118,7 +118,7 @@ ________________________________________________________________________________
 
 **4.1 Recomendação:** Recomenda-se uma análise detalhada dos fatores que podem ter influenciado essa queda, como mudanças nos preços, na qualidade do serviço ou na estratégia de marketing. Isso pode ser feito por meio da correlação entre esses eventos e a retenção de clientes, além da análise de feedbacks e reclamações do período. Caso sejam identificadas mudanças negativas, estratégias de recuperação devem ser implementadas, como reajuste de preços, melhoria no atendimento e ofertas segmentadas para reconquistar clientes inativos.
 
-**Abaixo, fatores de sucesso identificados que devem ser analisados e modelados para replicação em outros períodos**
+**Abaixo, fatores de sucesso identificados, que devem ser analisados e modelados para replicação em outros períodos**
 
 **5.** O mês de junho de 2019 apresenta a melhor taxa de retenção do período analisado, mantendo uma trajetória consistente ao longo do tempo. No vigésimo quarto mês, 35% dos clientes ainda permanecem ativos. Esse desempenho deixa claro que um plano de ação foi posto em prática e bem executado, evitando assim o que aconteceu em junho de 2017 e 2018. Este plano de ação foi eficazes na fidelização e engajamento, que contribuíram para a manutenção de uma base de clientes sólida ao longo do período.
 
