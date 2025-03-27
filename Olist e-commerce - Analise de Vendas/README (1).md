@@ -44,7 +44,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ## **5. Modelagem dos Dados**
-A estrutura principal do banco de dados da empresa, conforme descrito abaixo, consiste em sete tabelas, com mais de 95.000 registros cada. A descrição do conteúdo de cada tabela é dado abaixo:
+A estrutura principal do banco de dados da empresa consiste em oito tabelas, e mais duas, MEDIDAS E CALENDÁRIO, criadas posteriormente para auxiliar na análise. A descrição do conteúdo de cada tabela é dado abaixo:
 
 **TB_ACT_PRODUTOS:** Esta tabela armazena informações detalhadas sobre os produtos, incluindo atributos como tamanho, peso e categoria associada.
 
