@@ -62,7 +62,7 @@ A estrutura principal do banco de dados da empresa, conforme descrito abaixo, co
 
 **TB_ACT_AVALIAÇÕES_DOS_PEDIDOS:** Contém feedbacks dos clientes, incluindo a pontuação atribuída às compras, variando de 1 a 5 estrelas.
 
-![Tabelas](Imagens/tabelas.png)
+![Tabelas](Imagens/boa.png)
 
 ***Observação** A imagem acima contem sete tabelas, uma View (CATEGORIAS E PEDIDOS) e uma tabela(MEDIDAS) com as medidas DAX. 	
 _____________________________________________________________________________________________________________________________________________________________________________
