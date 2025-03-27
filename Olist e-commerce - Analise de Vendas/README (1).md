@@ -62,6 +62,11 @@ A estrutura principal do banco de dados da empresa, conforme descrito abaixo, co
 
 **TB_ACT_AVALIAÇÕES_DOS_PEDIDOS:** Contém feedbacks dos clientes, incluindo a pontuação atribuída às compras, variando de 1 a 5 estrelas.
 
+**TB_ACT_MEDIDAS:** Tabela que armazena as métricas calculadas por meio de expressões DAX (Data Analysis Expressions) utilizadas na análise de dados.
+
+**TB_ACT_CALENDÁRIO:** Tabela que contém colunas com diferentes granularidades de datas, como Ano, Mês e Dia. Esta estrutura permite a criação de medidas DAX avançadas, possibilitando a análise temporal detalhada e fornecendo insights mais profundos para o negócio.
+
+
 ![Tabelas](Imagens/boa.png)
 
 ***Observação** A imagem acima contem sete tabelas, uma View (CATEGORIAS E PEDIDOS) e uma tabela(MEDIDAS) com as medidas DAX. 	
